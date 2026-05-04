@@ -119,15 +119,6 @@
 @@||nutscdn.com^
 @@||appsflyersdk.com^
 
-! --- 10. GIẢI TRÍ & KHÁC ---
-@@||netflix.com^
-@@||nflxvideo.net^
-@@||nflxso.net^
-@@||zingplay.me^
-@@||pay.zing.vn^
-@@||protonmail.com^
-@@||piscale.com^
-
 ! --- 11. XIAOMI MIOT ---
 @@||tracking.miui.com^
 @@||app-measurement.com^
