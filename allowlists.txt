@@ -46,22 +46,6 @@
 @@||9pay.vn^
 
 ! --- 4. MUA SẮM, GIAO HÀNG & GỌI XE ---
-! Sàn TMĐT
-@@||shopee.vn^
-@@||shopee.sg^
-@@||shopeelike.com^
-@@||shopeemobile.com^
-@@||tiki.vn^
-@@||tiki.video^
-@@||lazada.vn^
-@@||laz-img.com^
-! Gọi xe & Đồ ăn
-@@||grab.com^
-@@||grabtaxi.com^
-@@||be.com.vn^
-@@||gojek.com^
-@@||foody.vn^
-@@||shopeefood.vn^
 ! Vận chuyển & Quản lý bán hàng
 @@||ghn.vn^
 @@||ghtk.vn^
