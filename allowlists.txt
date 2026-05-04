@@ -11,7 +11,6 @@
 @@||vnpost.vn^
 
 ! --- 2. NGÂN HÀNG & TÀI CHÍNH ---
-! Các ngân hàng lớn
 @@||vcb.com.vn^
 @@||vietcombank.com.vn^
 @@||techcombank.com.vn^
@@ -46,17 +45,11 @@
 @@||9pay.vn^
 
 ! --- 4. MUA SẮM, GIAO HÀNG & GỌI XE ---
-! Vận chuyển & Quản lý bán hàng
 @@||ghn.vn^
 @@||ghtk.vn^
 @@||viettelpost.com.vn^
 
 ! --- 5. MẠNG XÃ HỘI & NHẮN TIN ---
-! Facebook & Instagram
-@@||fbcdn.net^
-@@||fbsbx.com^
-@@||cdninstagram.com^
-! Zalo
 @@||zalo.me^
 @@||chat.zalo.me^
 @@||zadn.vn^
@@ -95,19 +88,7 @@
 @@||live.com^
 @@||azureedge.net^
 
-! --- 9. TIN TỨC, NHÀ MẠNG & TIỆN ÍCH ---
-@@||vnexpress.net^
-@@||dantri.com.vn^
-@@||tuoitre.vn^
-@@||thanhnien.vn^
-@@||coccoc.com^
-@@||viettel.vn^
-@@||vinaphone.com.vn^
-@@||mobifone.vn^
-@@||fpt.vn^
-@@||chatgpt.com^
-
-! --- 10. HẠ TẦNG MẠNG, CDN & TECH (Tránh lỗi load web) ---
+! --- 9. HẠ TẦNG MẠNG, CDN & TECH (Tránh lỗi load web) ---
 @@||cloudflare.com^
 @@||cloudflare-dns.com^
 @@||cloudflare.net^
@@ -138,7 +119,7 @@
 @@||nutscdn.com^
 @@||appsflyersdk.com^
 
-! --- 11. GIẢI TRÍ & KHÁC ---
+! --- 10. GIẢI TRÍ & KHÁC ---
 @@||netflix.com^
 @@||nflxvideo.net^
 @@||nflxso.net^
@@ -147,7 +128,7 @@
 @@||protonmail.com^
 @@||piscale.com^
 
-! --- 12. XIAOMI ---
+! --- 11. XIAOMI MIOT ---
 @@||tracking.miui.com^
 @@||app-measurement.com^
 @@||local^
