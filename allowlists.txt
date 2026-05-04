@@ -135,10 +135,6 @@
 @@||pingma.qq.com^
 @@||metrics.icloud.com^
 @@||static.cloudflareinsights.com^
-@@||mi.com
-@@||xiaomi.com
-@@||api.io.mi.com
-@@||ot.io.mi.com
 @@||tracking.intl.miui.com^
 @@||mi.com^
 @@||xiaomi.com^
