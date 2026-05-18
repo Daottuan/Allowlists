@@ -138,4 +138,7 @@
 @@||aliyuncs.com^
 @@||cloudfront.net^
 @@||akamai.net^
-
+!
+@@||airvisual.com^
+@@||api.airvisual.com
+@@||daottuan.blogspot.com^
