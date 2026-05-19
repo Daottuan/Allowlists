@@ -151,6 +151,8 @@
 @@||estapi.amap.com^
 
 !  JPush realtime 
+@@||*.getui.net^
+@@||*.igexin.com^
 @@||*.jpush.cn^
 @@||*.jpush.io^
 @@||s.jpush.cn
