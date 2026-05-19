@@ -144,5 +144,8 @@
 @@||daottuan.blogspot.com^
 @@||api-kic.lgthinq.com^
 @@||imasdk.googleapis.com^
+
+! --- 2. VTVGo ---
 @@||web-cache-aws.vtvdigital.vn
 @@||vtvgolive-failover.vtvdigital.vn
+@@||vtvgo-failover.vtvdigital.vn
