@@ -131,6 +131,7 @@
 ! Xiaomi CDN / Assets
 @@||*.mi-img.com^
 @@||cdn.cnbj1.fds.api.mi-img.com^
+@@||*.fds.api.xiaomi.com^
 ! Dreame ecosystem
 ! -------------------------
 @@||dreame-tech.com^
