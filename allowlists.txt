@@ -136,6 +136,8 @@
 @@||ot.io.mi.com^
 @@||ott.io.mi.com^
 @@||cn.ot.io.mi.com^
+@@||tracking.miui.com^
+@@||tracking.intl.miui.com^
 
 ! MIOT / Device Specs
 @@||miot-spec.com^
