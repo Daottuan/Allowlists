@@ -144,3 +144,4 @@
 @@||daottuan.blogspot.com^
 @@||api-kic.lgthinq.com^
 @@||web-cache-aws.vtvdigital.vn^
+@@||vtvgo.vn^
