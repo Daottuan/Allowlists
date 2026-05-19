@@ -10,6 +10,12 @@
 @@||vneid.gov.vn^
 @@||vnpost.vn^
 
+! --- 2. TIN TỨC ---
+@@||baobacninhtv.vn^
+@@||dantri.com.vn^
+@@||vietnamnet.vn^
+@@||vov.vn^
+
 ! --- 2. NGÂN HÀNG & TÀI CHÍNH ---
 @@||vcb.com.vn^
 @@||vietcombank.com.vn^
