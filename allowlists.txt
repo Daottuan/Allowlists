@@ -151,6 +151,10 @@
 !  JPush realtime 
 @@||tsis-ipv6.jpush.cn^
 @@||tsis.jpush.cn^
+@@||sis-ipv6.jpush.cn^
+@@||stats-ipv6.jpush.cn^
+@@||status-ipv6.jpush.cn^
+
 
 ! Xiaomi CDN / Assets
 @@||*.mi-img.com^
