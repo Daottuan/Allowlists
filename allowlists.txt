@@ -136,6 +136,7 @@
 @@||nutscdn.com^
 @@||appsflyersdk.com^
 @@||graph.facebook.com^
+@@||tailscale.com^
 
 ! =====================
 ! XIAOMI HIME/ MIOT CN
