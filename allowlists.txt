@@ -45,17 +45,27 @@
 @@||9pay.vn^
 
 ! --- 6. GOOGLE & YOUTUBE ---
-@@||google.com^
+@@||accounts.google.com^
+@@||myaccount.google.com^
+!  Gmail 
+@@||mail.google.com^
 @@||gmail.com^
+!  YouTube 
+@@||youtube.com^
+@@||youtu.be^
 @@||googlevideo.com^
 @@||ytimg.com^
-@@||ggpht.com^
+!  Static assets 
 @@||gstatic.com^
+@@||ggpht.com^
 @@||googleusercontent.com^
+!  APIs required by apps 
 @@||googleapis.com^
+@@||firebase.googleapis.com^
+!  CAPTCHA / Login 
 @@||recaptcha.google.com^
 @@||recaptcha.net^
-@@||firebase.googleapis.com^
+!  Hosted app resources 
 @@||googlehosted.com^
 
 ! --- 7. APPLE & ICLOUD ---
