@@ -13,8 +13,17 @@
 ! --- 2. TIN TỨC ---
 @@||baobacninhtv.vn^
 @@||dantri.com.vn^
-@@||vietnamnet.vn^
 @@||vov.vn^
+! --- VIETNAMNET ---
+@@||vietnamnet.vn^
+@@||static.vnncdn.net^
+@@||res-files.vnncdn.net^
+@@||img.vietnamnetjsc.vn^
+@@||cdn.vietnamnet.vn^
+@@||imasdk.googleapis.com^
+@@||mcnewsmd1.keeng.vn^
+@@||tracking.vnncdn.net^
+
 
 ! --- 2. NGÂN HÀNG & TÀI CHÍNH ---
 @@||vcb.com.vn^
