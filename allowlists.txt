@@ -59,14 +59,28 @@
 @@||googlehosted.com^
 
 ! --- 7. APPLE & ICLOUD ---
-@@||apple.com^
 @@||icloud.com^
+@@||appleid.apple.com^
+@@||idmsa.apple.com^
+!  App Store / Updates 
 @@||itunes.apple.com^
-@@||aaplimg.com^
+@@||apps.apple.com^
 @@||mzstatic.com^
-@@||apple-dns.net^
 @@||cdn-apple.com^
+@@||aaplimg.com^
+!  Apple Push / Notifications 
+@@||push.apple.com^
+@@||courier.push.apple.com^
+!  DNS / Connectivity 
+@@||apple-dns.net^
+@@||mask.icloud.com^
+!  iCloud Mail / Legacy 
 @@||me.com^
+!  Find My / Device services 
+@@||findmy.apple.com^
+!  Certificate / OCSP 
+@@||ocsp.apple.com^
+@@||valid.apple.com^
 
 ! --- 8. MICROSOFT & OFFICE ---
 @@||microsoft.com^
