@@ -78,17 +78,6 @@
 @@||azureedge.net^
 
 ! --- 9. HẠ TẦNG MẠNG, CDN & TECH (Tránh lỗi load web) ---
-@@||akamai.net^
-@@||akamaiedge.net^
-@@||akamaihd.net^
-@@||akadns.net^
-@@||fastly.net^
-@@||fastlylb.net^
-@@||fastly-edge.com^
-@@||edgecastcdn.net^
-@@||edgesuite.net^
-@@||cloudfront.net^
-@@||amazonaws.com^
 @@||github.com^
 @@||githubusercontent.com^
 @@||githubassets.com^
