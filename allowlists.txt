@@ -160,7 +160,7 @@
 @@||api-kic.lgthinq.com^
 @@||imasdk.googleapis.com^
 
-! --- VTVGo Core ---
+! --- VTVGO CORE ---
 @@||vtvgo.vn^
 @@||*.vtvgo.vn^
 ! --- API / Player ---
