@@ -129,6 +129,7 @@
 @@||map.io.mi.com^
 @@||map.api.io.mi.com^
 @@||estapi.amap.com^
+@@||restapi.amap.com^
 ! Xiaomi CDN / Assets
 @@||*.mi-img.com^
 @@||cdn.cnbj1.fds.api.mi-img.com^
