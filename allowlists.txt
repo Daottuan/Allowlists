@@ -77,6 +77,7 @@
 @@||ggpht.com^
 @@||googleusercontent.com^
 !  APIs required by apps 
+@@||imasdk.googleapis.com^
 @@||googleapis.com^
 @@||firebase.googleapis.com^
 !  CAPTCHA / Login 
@@ -218,7 +219,8 @@
 @@||api-kic.lgthinq.com^
 @@||vn.lgeapi.com^
 @@||*.lgthinq.com^
-@@||imasdk.googleapis.com^
+@@||blynk.cloud^
+
 
 ! --- VTVGO CORE ---
 @@||vtvgo.vn^
