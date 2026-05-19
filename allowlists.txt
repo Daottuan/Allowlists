@@ -145,17 +145,21 @@
 @@||api-kic.lgthinq.com^
 @@||imasdk.googleapis.com^
 
-! --- 2. VTVGo ---
-@@||web-cache-aws.vtvdigital.vn
-@@||web-api-vtvgo.vtvdigital.vn
-@@||vtvgo-failover.vtvdigital.vn
-@@||vtvgolive-vtv.vtvdigital.vn
-@@||vtvgolive-failover.vtvdigital.vn
-@@||vtvgo-assets.vtvdigital.vn
-@@||cache-api-vtvgo.vtvdigital.vn
+! --- VTVGo Core ---
 @@||vtvgo.vn^
 @@||*.vtvgo.vn^
-@@||vtvdigital.vn^
-@@||*.vtvdigital.vn^
-@@||imasdk.googleapis.com^
-@@||gvt1.com^
+! --- API / Player ---
+@@||web-api-vtvgo.vtvdigital.vn^
+@@||cache-api-vtvgo.vtvdigital.vn^
+@@||web-cache-aws.vtvdigital.vn^
+! --- Streaming ---
+@@||vtvgolive-vtv.vtvdigital.vn^
+@@||vtvgolive-failover.vtvdigital.vn^
+@@||vtvgo-failover.vtvdigital.vn^
+! --- Assets ---
+@@||vtvgo-assets.vtvdigital.vn^
+@@||antv-config-cdn-vtvgo.vtvdigital.vn^
+! --- Google video / SDK ---
+@@||imasdk.googleapis.com^$domain=vtvgo.vn
+@@||gvt1.com^$domain=vtvgo.vn
+@@||googlevideo.com^$domain=vtvgo.vn
