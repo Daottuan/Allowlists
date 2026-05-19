@@ -118,9 +118,10 @@
 @@||nutscdn.com^
 @@||appsflyersdk.com^
 
-! =========================================
-! Xiaomi Mi Home / MIOT CN - Optimized
-! =========================================
+! =====================
+! XIAOMI HIME/ MIOT CN
+! =====================
+
 ! Core API / Account
 @@||api.io.mi.com^
 @@||app.io.mi.com^
