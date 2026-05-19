@@ -151,11 +151,13 @@
 @@||estapi.amap.com^
 
 !  JPush realtime 
+@@||sis-ipv6.jpush.cn^
 @@||tsis-ipv6.jpush.cn^
 @@||tsis.jpush.cn^
-@@||sis-ipv6.jpush.cn^
 @@||stats-ipv6.jpush.cn^
+@@||stats.jpush.cn^
 @@||status-ipv6.jpush.cn^
+@@||ali-stats.jpush.cn
 
 
 ! Xiaomi CDN / Assets
