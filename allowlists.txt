@@ -149,3 +149,4 @@
 @@||web-cache-aws.vtvdigital.vn
 @@||vtvgolive-failover.vtvdigital.vn
 @@||vtvgo-failover.vtvdigital.vn
+@@||vtvgolive-vtv.vtvdigital.vn
