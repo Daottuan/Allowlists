@@ -151,6 +151,8 @@
 @@||estapi.amap.com^
 
 !  JPush realtime 
+@@||*.jpush.cn^
+@@||*.jpush.io^
 @@||s.jpush.cn
 @@||sis.jpush.io
 @@||sis-ipv6.jpush.cn^
