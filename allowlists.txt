@@ -153,4 +153,9 @@
 @@||vtvgolive-failover.vtvdigital.vn
 @@||vtvgo-assets.vtvdigital.vn
 @@||cache-api-vtvgo.vtvdigital.vn
-
+@@||vtvgo.vn^
+@@||*.vtvgo.vn^
+@@||vtvdigital.vn^
+@@||*.vtvdigital.vn^
+@@||imasdk.googleapis.com^
+@@||gvt1.com^
