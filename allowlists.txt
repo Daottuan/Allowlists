@@ -129,20 +129,28 @@
 @@||api.micloud.xiaomi.net^
 @@||micloud.xiaomi.net^
 @@||iot.mi.com^
+
 ! Realtime / MQTT
 @@||mqtt.io.mi.com^
 @@||ot.io.mi.com^
 @@||ott.io.mi.com^
 @@||cn.ot.io.mi.com^
+
 ! MIOT / Device Specs
 @@||miot-spec.com^
 @@||miot-spec.org^
+
 ! Robot vacuum / Maps
 @@||vacuum.iot.mi.com^
 @@||map.io.mi.com^
 @@||map.api.io.mi.com^
-@@||estapi.amap.com^
 @@||restapi.amap.com^
+@@||estapi.amap.com^
+
+!  JPush realtime 
+@@||tsis-ipv6.jpush.cn^
+@@||tsis.jpush.cn^
+
 ! Xiaomi CDN / Assets
 @@||*.mi-img.com^
 @@||cdn.cnbj1.fds.api.mi-img.com^
@@ -153,6 +161,7 @@
 @@||dreame-tech.com^
 @@||dreame-technology.com^
 @@||dreame-technology.cn^
+
 ! Apple Push
 ! -------------------------
 @@||push.apple.com^
