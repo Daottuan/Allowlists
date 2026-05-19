@@ -159,30 +159,32 @@
 @@||stats.jpush.cn^
 @@||status-ipv6.jpush.cn^
 @@||ali-stats.jpush.cn
-
+@@||apmplus.volces.com^
+@@||gator.volces.com^
+@@||tab.volces.com^
+@@||lf3-data.volccdn.com^
 
 ! Xiaomi CDN / Assets
 @@||*.mi-img.com^
 @@||cdn.cnbj1.fds.api.mi-img.com^
 @@||cnbj1.fds.api.xiaomi.com
 @@||*.fds.api.xiaomi.com^
+
 ! Dreame ecosystem
-! -------------------------
 @@||dreame-tech.com^
 @@||dreame-technology.com^
 @@||dreame-technology.cn^
 
 ! Apple Push
-! -------------------------
 @@||push.apple.com^
 @@||courier.push.apple.com^
+
 ! Getui Push SDK
-! -------------------------
 @@||*.getui.com^
 @@||bz-sdk.open.extension.getui.com^
+
 ! Optional Google support
 ! only if loading issues
-! -------------------------
 @@||googleapis.com^$domain=io.mi.com
 @@||gvt1.com^$domain=io.mi.com
 
