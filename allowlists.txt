@@ -14,12 +14,18 @@
 @@||baobacninhtv.vn^
 @@||dantri.com.vn^
 @@||vov.vn^
-@@||baomoi.com^
-! --- VIETNAMNET ---
+! VIETNAMNET
 @@||vietnamnet.vn^
 @@||*.vnncdn.net^
 @@||*.vietnamnetjsc.vn^
 @@||*.vietnamnet.vn^
+! BAOMOI
+@@||baomoi.com^
+@@||static.baomoi.com^
+@@||img.baomoi.com^
+@@||photo-baomoi.bmcdn.me^
+@@||bmcdn.me^
+@@||cdn.baomoi.com^
 
 ! --- 2. NGÂN HÀNG & TÀI CHÍNH ---
 @@||vcb.com.vn^
