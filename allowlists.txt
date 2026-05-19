@@ -144,3 +144,5 @@
 @@||daottuan.blogspot.com^
 @@||api-kic.lgthinq.com^
 @@||imasdk.googleapis.com^
+@@||web-cache-aws.vtvdigital.vn
+@@||vtvgolive-failover.vtvdigital.vn
