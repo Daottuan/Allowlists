@@ -105,58 +105,50 @@
 @@||nutscdn.com^
 @@||appsflyersdk.com^
 
-! --- 11. XIAOMI MIOT ---
-@@||tracking.miui.com^
-@@||app-measurement.com^
-@@||local^
-@@||pingma.qq.com^
-@@||metrics.icloud.com^
-@@||static.cloudflareinsights.com^
-@@||tracking.intl.miui.com^
-@@||mi.com^
-@@||xiaomi.com^
-@@||miui.com^
-@@||mi-img.com^
-@@||miot-spec.com^
-@@||miot-spec.org^
+! =========================================
+! Xiaomi Mi Home / MIOT CN - Optimized
+! =========================================
+! Core API / Account
 @@||api.io.mi.com^
 @@||app.io.mi.com^
-@@||ott.io.mi.com^
-@@||account.xiaomi.com^
-@@||micloud.xiaomi.net^
-@@||api.micloud.xiaomi.net^
-@@||dreame-technology.com^
-@@||dreame-tech.com^
-@@||dreame-technology.cn^
-@@||ot.io.mi.com^
-@@||cn.ot.io.mi.com^
-@@||iot.mi.com^
-@@||map.io.mi.com^
-@@||map.api.io.mi.com^
-@@||vacuum.iot.mi.com^
-@@||amazonaws.com^
-@@||aliyuncs.com^
-@@||cloudfront.net^
-@@||akamai.net^
-! --- Mi Home ---
-@@||api.io.mi.com^
 @@||*.io.mi.com^
 @@||account.xiaomi.com^
-@@||*.xiaomi.com^
-@@||*.mi.com^
-! --- Push / Realtime ---
+@@||api.micloud.xiaomi.net^
+@@||micloud.xiaomi.net^
+@@||iot.mi.com^
+! Realtime / MQTT
 @@||mqtt.io.mi.com^
-@@||ott.io.mi.com^
 @@||ot.io.mi.com^
-! --- Xiaomi CN CDN ---
-@@||cdn.cnbj1.fds.api.mi-img.com^
+@@||ott.io.mi.com^
+@@||cn.ot.io.mi.com^
+! MIOT / Device Specs
+@@||miot-spec.com^
+@@||miot-spec.org^
+! Robot vacuum / Maps
+@@||vacuum.iot.mi.com^
+@@||map.io.mi.com^
+@@||map.api.io.mi.com^
+! Xiaomi CDN / Assets
 @@||*.mi-img.com^
-! --- Getui Push ---
-@@||*.getui.com^
-@@||bz-sdk.open.extension.getui.com^
-! --- Apple Push ---
+@@||cdn.cnbj1.fds.api.mi-img.com^
+! Dreame ecosystem
+! -------------------------
+@@||dreame-tech.com^
+@@||dreame-technology.com^
+@@||dreame-technology.cn^
+! Apple Push
+! -------------------------
 @@||push.apple.com^
 @@||courier.push.apple.com^
+! Getui Push SDK
+! -------------------------
+@@||*.getui.com^
+@@||bz-sdk.open.extension.getui.com^
+! Optional Google support
+! only if loading issues
+! -------------------------
+@@||googleapis.com^$domain=io.mi.com
+@@||gvt1.com^$domain=io.mi.com
 
 ! --- HOMEASSISTANT ---
 @@||airvisual.com^
