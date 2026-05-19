@@ -20,7 +20,6 @@
 @@||*.vietnamnetjsc.vn^
 @@||*.vietnamnet.vn^
 ! BAOMOI
-@@||baomoi.com^
 @@||static.baomoi.com^
 @@||img.baomoi.com^
 @@||photo-baomoi.bmcdn.me^
