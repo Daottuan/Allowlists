@@ -151,4 +151,6 @@
 @@||vtvgo-failover.vtvdigital.vn
 @@||vtvgolive-vtv.vtvdigital.vn
 @@||vtvgolive-failover.vtvdigital.vn
+@@||vtvgo-assets.vtvdigital.vn
 @@||cache-api-vtvgo.vtvdigital.vn
+
