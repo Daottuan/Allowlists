@@ -217,8 +217,7 @@
 @@||daottuan.blogspot.com^
 @@||api-kic.lgthinq.com^
 @@||vn.lgeapi.com^
-@@||route.lgthinq.com^
-@@||kic-service.lgthinq.com^
+@@||*.lgthinq.com^
 @@||imasdk.googleapis.com^
 
 ! --- VTVGO CORE ---
