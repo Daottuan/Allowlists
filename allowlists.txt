@@ -138,7 +138,27 @@
 @@||aliyuncs.com^
 @@||cloudfront.net^
 @@||akamai.net^
-!
+! --- Mi Home ---
+@@||api.io.mi.com^
+@@||*.io.mi.com^
+@@||account.xiaomi.com^
+@@||*.xiaomi.com^
+@@||*.mi.com^
+! --- Push / Realtime ---
+@@||mqtt.io.mi.com^
+@@||ott.io.mi.com^
+@@||ot.io.mi.com^
+! --- Xiaomi CN CDN ---
+@@||cdn.cnbj1.fds.api.mi-img.com^
+@@||*.mi-img.com^
+! --- Getui Push ---
+@@||*.getui.com^
+@@||bz-sdk.open.extension.getui.com^
+! --- Apple Push ---
+@@||push.apple.com^
+@@||courier.push.apple.com^
+
+! --- HOMEASSISTANT ---
 @@||airvisual.com^
 @@||api.airvisual.com
 @@||daottuan.blogspot.com^
