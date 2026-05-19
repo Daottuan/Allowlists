@@ -147,6 +147,9 @@
 
 ! --- 2. VTVGo ---
 @@||web-cache-aws.vtvdigital.vn
-@@||vtvgolive-failover.vtvdigital.vn
+@@||web-api-vtvgo.vtvdigital.vn
 @@||vtvgo-failover.vtvdigital.vn
 @@||vtvgolive-vtv.vtvdigital.vn
+@@||vtvgolive-failover.vtvdigital.vn
+
+@@||cache-api-vtvgo.vtvdigital.vn
