@@ -142,3 +142,4 @@
 @@||airvisual.com^
 @@||api.airvisual.com
 @@||daottuan.blogspot.com^
+@@||api-kic.lgthinq.com^
