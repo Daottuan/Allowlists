@@ -135,6 +135,7 @@
 @@||cdn20.com^
 @@||nutscdn.com^
 @@||appsflyersdk.com^
+@@||graph.facebook.com^
 
 ! =====================
 ! XIAOMI HIME/ MIOT CN
