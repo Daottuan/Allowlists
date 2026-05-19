@@ -205,7 +205,9 @@
 @@||vtvgo.vn^
 @@||*.vtvgo.vn^
 ! --- API / Player ---
-@@||*.api-vtvgo.vtvdigital.vn
+@@||ios-api-vtvgo.vtvdigital.vn
+@@||vn-web-api-vtvgo.vtvdigital.vn
+@@||android-api-vtvgo.vtvdigital.vn
 @@||web-api-vtvgo.vtvdigital.vn^
 @@||cache-api-vtvgo.vtvdigital.vn^
 @@||web-cache-aws.vtvdigital.vn^
