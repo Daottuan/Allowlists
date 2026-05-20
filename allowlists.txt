@@ -221,7 +221,9 @@
 @@||api-kic.lgthinq.com^
 @@||vn.lgeapi.com^
 @@||*.lgthinq.com^
-@@||*.lgsmartplatform.com
+@@||*.lgsmartplatform.com^
+@@||*.lgemembers.com^
+@@||kic-lgthinq-com.aws-thinq-prd.net
 @@||blynk.cloud^
 
 
