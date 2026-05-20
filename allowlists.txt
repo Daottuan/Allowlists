@@ -228,6 +228,7 @@
 @@||*.lgthinq.com^
 @@||*.lgsmartplatform.com^
 @@||*.lgemembers.com^
+@@||*.aws-thinq-prd.net^
 @@||kic-lgthinq-com.aws-thinq-prd.net^
 @@||kic-svc-lgthinq-com.aws-thinq-prd.net^
 @@||kic-api-lgthinq-com.aws-thinq-prd.net^
