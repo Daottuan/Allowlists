@@ -221,6 +221,7 @@
 @@||api-kic.lgthinq.com^
 @@||vn.lgeapi.com^
 @@||*.lgthinq.com^
+@@||*.lgsmartplatform.com
 @@||blynk.cloud^
 
 
