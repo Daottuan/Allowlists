@@ -218,6 +218,11 @@
 @@||airvisual.com^
 @@||api.airvisual.com
 @@||daottuan.blogspot.com^
+
+@@||lge.com^
+@@||lgthinq.com^
+@@||lgsmartplatform.com^
+@@||lgemp-prd.net^
 @@||api-kic.lgthinq.com^
 @@||vn.lgeapi.com^
 @@||*.lgthinq.com^
