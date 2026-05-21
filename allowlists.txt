@@ -244,6 +244,7 @@
 @@||*.vtvgo.vn^
 @@||smarttv-api-vtvgo.vtvdigital.vn^
 @@||app-config-cdn-vtvgo.vtvdigital.vn^
+@@||asset-tizen.vtvdigital.vn^
 ! --- API / Player ---
 @@||ios-api-vtvgo.vtvdigital.vn
 @@||vn-web-api-vtvgo.vtvdigital.vn
