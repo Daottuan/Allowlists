@@ -235,6 +235,7 @@
 @@||kic-lgthinq-com.aws-thinq-prd.net^
 @@||kic-svc-lgthinq-com.aws-thinq-prd.net^
 @@||kic-api-lgthinq-com.aws-thinq-prd.net^
+@@||vn-lgeapi-com.esi-prd.net^
 
 
 
