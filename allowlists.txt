@@ -218,6 +218,9 @@
 @@||airvisual.com^
 @@||api.airvisual.com
 @@||daottuan.blogspot.com^
+@@||*.imoulife.com^
+@@||blynk.cloud^
+
 
 @@||lge.com^
 @@||lgthinq.com^
@@ -232,13 +235,12 @@
 @@||kic-lgthinq-com.aws-thinq-prd.net^
 @@||kic-svc-lgthinq-com.aws-thinq-prd.net^
 @@||kic-api-lgthinq-com.aws-thinq-prd.net^
-@@||blynk.cloud^
+
 
 
 ! --- VTVGO CORE ---
 @@||vtvgo.vn^
 @@||*.vtvgo.vn^
-
 ! --- API / Player ---
 @@||ios-api-vtvgo.vtvdigital.vn
 @@||vn-web-api-vtvgo.vtvdigital.vn
@@ -246,12 +248,10 @@
 @@||web-api-vtvgo.vtvdigital.vn^
 @@||cache-api-vtvgo.vtvdigital.vn^
 @@||web-cache-aws.vtvdigital.vn^
-
 ! --- Streaming ---
 @@||vtvgolive-vtv.vtvdigital.vn^
 @@||vtvgolive-failover.vtvdigital.vn^
 @@||vtvgo-failover.vtvdigital.vn^
-
 ! --- Assets ---
 @@||vtvgo-assets.vtvdigital.vn^
 @@||antv-config-cdn-vtvgo.vtvdigital.vn^
