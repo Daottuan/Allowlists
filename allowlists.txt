@@ -62,6 +62,14 @@
 @@||smartpay.vn^
 @@||9pay.vn^
 
+! ZALO, FACEBOOK, Shopee
+@@||*.shopee.*
+@@||web.facebook.com^
+@@||*.shopeemobile.com^
+@@||*.zaloapp.com^
+@@||*.dlmd.me^
+@@||*.mdchat.me^
+
 ! --- 6. GOOGLE & YOUTUBE ---
 @@||accounts.google.com^
 @@||myaccount.google.com^
