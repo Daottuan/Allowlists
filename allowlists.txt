@@ -2,7 +2,7 @@
 ! Allowlists by Daottuan
 ! ======================
 
-! --- 1. CỔNG DỊCH VỤ CÔNG & CHÍNH PHỦ ---
+! 1. CỔNG DỊCH VỤ CÔNG & CHÍNH PHỦ
 @@||dichvucong.gov.vn^
 @@||baohiemxahoi.gov.vn^
 @@||thuedientu.gdt.gov.vn^
@@ -10,7 +10,7 @@
 @@||vneid.gov.vn^
 @@||vnpost.vn^
 
-! --- 2. TIN TỨC ---
+! 2. TIN TỨC 
 @@||cand.vn^
 @@||baobacninhtv.vn^
 @@||dantri.com.vn^
@@ -28,7 +28,7 @@
 @@||bmcdn.me^
 @@||cdn.baomoi.com^
 
-! --- 2. NGÂN HÀNG & TÀI CHÍNH ---
+! 3. NGÂN HÀNG & TÀI CHÍNH
 @@||vcb.com.vn^
 @@||vietcombank.com.vn^
 @@||techcombank.com.vn^
@@ -43,12 +43,12 @@
 @@||shb.com.vn^
 @@||liobank.vn^
 
-! TỔ CHỨC THẺ
+! 4. TỔ CHỨC THẺ
 @@||napas.com.vn^
 @@||visa.com^
 @@||digitalcardservice.com^
 
-! --- 3. VÍ ĐIỆN TỬ & CỔNG THANH TOÁN ---
+! 5. VÍ ĐIỆN TỬ & CỔNG THANH TOÁN
 @@||momo.vn^
 @@||momoapp.vn^
 @@||momocdn.net^
@@ -63,7 +63,7 @@
 @@||smartpay.vn^
 @@||9pay.vn^
 
-! ZALO, FACEBOOK, Shopee
+! 6. ZALO, FACEBOOK, Shopee
 @@||*.shopee.*
 @@||web.facebook.com^
 @@||*.shopeemobile.com^
@@ -71,7 +71,7 @@
 @@||*.dlmd.me^
 @@||*.mdchat.me^
 
-! --- 6. GOOGLE & YOUTUBE ---
+! 7. GOOGLE & YOUTUBE
 @@||accounts.google.com^
 @@||myaccount.google.com^
 !  Gmail 
@@ -98,7 +98,7 @@
 @@||googleapis.com^$domain=io.mi.com
 @@||gvt1.com^$domain=io.mi.com
 
-! --- 7. APPLE & ICLOUD ---
+! 8. APPLE & ICLOUD 
 @@||icloud.com^
 @@||appleid.apple.com^
 @@||idmsa.apple.com^
@@ -122,7 +122,7 @@
 @@||ocsp.apple.com^
 @@||valid.apple.com^
 
-! --- 8. MICROSOFT & OFFICE ---
+! 9. MICROSOFT & OFFICE
 @@||microsoft.com^
 @@||microsoftonline.com^
 @@||office.com^
@@ -131,7 +131,7 @@
 @@||live.com^
 @@||azureedge.net^
 
-! --- 9. HẠ TẦNG MẠNG, CDN & TECH (Tránh lỗi load web) ---
+! 10. HẠ TẦNG MẠNG, CDN & TECH (Tránh lỗi load web)
 @@||github.com^
 @@||githubusercontent.com^
 @@||githubassets.com^
@@ -150,7 +150,7 @@
 @@||graph.facebook.com^
 @@||tailscale.com^
 
-! XIAOMI HIME/ MIOT CN
+! 11. XIAOMI HIME/ MIOT CN
 ! Core API / Account
 @@||api.io.mi.com^
 @@||app.io.mi.com^
@@ -207,14 +207,14 @@
 @@||*.getui.com^
 @@||bz-sdk.open.extension.getui.com^
 
-! --- HOMEASSISTANT ---
+! 12. HOMEASSISTANT 
 @@||airvisual.com^
 @@||api.airvisual.com
 @@||daottuan.blogspot.com^
 @@||*.imoulife.com^
 @@||blynk.cloud^
 
-! THIẾT BỊ LG, LG THINQ
+! 13. THIẾT BỊ LG, LG THINQ
 @@||lge.com^
 @@||lgthinq.com^
 @@||lgsmartplatform.com^
@@ -230,7 +230,7 @@
 @@||kic-api-lgthinq-com.aws-thinq-prd.net^
 @@||vn-lgeapi-com.esi-prd.net^
 
-! --- VTVGO CORE ---
+! 14. VTVGO CORE
 @@||vtvgo.vn^
 @@||*.vtvgo.vn^
 @@||smarttv-api-vtvgo.vtvdigital.vn^
