@@ -1,5 +1,5 @@
 ! ================================================
-! DANH SÁCH NGOẠI LỆ TỐI ƯU BỞI TÁM CÔNG NGHỆ
+! Allowlists by Daottuan
 ! ================================================
 
 ! --- 1. CỔNG DỊCH VỤ CÔNG & CHÍNH PHỦ ---
