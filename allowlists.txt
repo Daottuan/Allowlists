@@ -42,7 +42,8 @@
 @@||hdbank.com.vn^
 @@||shb.com.vn^
 @@||liobank.vn^
-! Tổ chức thẻ
+
+! TỔ CHỨC THẺ
 @@||napas.com.vn^
 @@||visa.com^
 @@||digitalcardservice.com^
@@ -94,6 +95,8 @@
 @@||recaptcha.net^
 !  Hosted app resources 
 @@||googlehosted.com^
+@@||googleapis.com^$domain=io.mi.com
+@@||gvt1.com^$domain=io.mi.com
 
 ! --- 7. APPLE & ICLOUD ---
 @@||icloud.com^
@@ -147,10 +150,7 @@
 @@||graph.facebook.com^
 @@||tailscale.com^
 
-! =====================
 ! XIAOMI HIME/ MIOT CN
-! =====================
-
 ! Core API / Account
 @@||api.io.mi.com^
 @@||app.io.mi.com^
@@ -159,7 +159,6 @@
 @@||api.micloud.xiaomi.net^
 @@||micloud.xiaomi.net^
 @@||iot.mi.com^
-
 ! Realtime / MQTT
 @@||mqtt.io.mi.com^
 @@||ot.io.mi.com^
@@ -167,18 +166,15 @@
 @@||cn.ot.io.mi.com^
 @@||tracking.miui.com^
 @@||tracking.intl.miui.com^
-
 ! MIOT / Device Specs
 @@||miot-spec.com^
 @@||miot-spec.org^
-
 ! Robot vacuum / Maps
 @@||vacuum.iot.mi.com^
 @@||map.io.mi.com^
 @@||map.api.io.mi.com^
 @@||restapi.amap.com^
 @@||estapi.amap.com^
-
 !  JPush realtime 
 @@||*.getui.net^
 @@||*.igexin.com^
@@ -197,31 +193,19 @@
 @@||gator.volces.com^
 @@||tab.volces.com^
 @@||lf3-data.volccdn.com^
-
 ! Xiaomi CDN / Assets
 @@||*.mi-img.com^
 @@||cdn.cnbj1.fds.api.mi-img.com^
 @@||cnbj1.fds.api.xiaomi.com
 @@||*.fds.api.xiaomi.com^
-
 ! Dreame ecosystem
 @@||dreame-tech.com^
 @@||dreame-technology.com^
 @@||dreame-technology.cn^
 @@||git.dreame.tech^
-
-! Apple Push
-@@||push.apple.com^
-@@||courier.push.apple.com^
-
 ! Getui Push SDK
 @@||*.getui.com^
 @@||bz-sdk.open.extension.getui.com^
-
-! Optional Google support
-! only if loading issues
-@@||googleapis.com^$domain=io.mi.com
-@@||gvt1.com^$domain=io.mi.com
 
 ! --- HOMEASSISTANT ---
 @@||airvisual.com^
@@ -230,7 +214,7 @@
 @@||*.imoulife.com^
 @@||blynk.cloud^
 
-
+! THIẾT BỊ LG, LG THINQ
 @@||lge.com^
 @@||lgthinq.com^
 @@||lgsmartplatform.com^
@@ -245,8 +229,6 @@
 @@||kic-svc-lgthinq-com.aws-thinq-prd.net^
 @@||kic-api-lgthinq-com.aws-thinq-prd.net^
 @@||vn-lgeapi-com.esi-prd.net^
-
-
 
 ! --- VTVGO CORE ---
 @@||vtvgo.vn^
@@ -268,7 +250,6 @@
 ! --- Assets ---
 @@||vtvgo-assets.vtvdigital.vn^
 @@||antv-config-cdn-vtvgo.vtvdigital.vn^
-
 ! --- Google video / SDK ---
 @@||imasdk.googleapis.com^$domain=vtvgo.vn
 @@||gvt1.com^$domain=vtvgo.vn
