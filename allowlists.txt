@@ -63,12 +63,12 @@
 @@||smartpay.vn^
 @@||9pay.vn^
 
-! 6. ZALO, FACEBOOK, Shopee
-@@||shopee.*^
+! 6. ZALO, FACEBOOK, Shopee@@||shopee.com^
+@@||shopee.vn^
+@@||shopee.co.id^
 @@||susercontent.com^
-@@||*.shopee.*
-@@||web.facebook.com^
-@@||*.shopeemobile.com^
+@@||shopeemobile.com^
+@@||sg-live.slatic.net^  (một số API/CDN có thể dùng chung hệ Lazada)
 @@||*.zaloapp.com^
 @@||*.dlmd.me^
 @@||*.mdchat.me^
