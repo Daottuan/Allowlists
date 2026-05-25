@@ -64,6 +64,8 @@
 @@||9pay.vn^
 
 ! 6. ZALO, FACEBOOK, Shopee
+@@||shopee.*^
+@@||susercontent.com^
 @@||*.shopee.*
 @@||web.facebook.com^
 @@||*.shopeemobile.com^
