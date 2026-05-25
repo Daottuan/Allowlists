@@ -70,6 +70,7 @@
 @@||*.zaloapp.com^
 @@||*.dlmd.me^
 @@||*.mdchat.me^
+@@||file-stal-12.dlfl.vn^$important  !(chặn zalo gửi file)
 
 ! 7. GOOGLE & YOUTUBE
 @@||accounts.google.com^
