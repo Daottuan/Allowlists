@@ -261,4 +261,4 @@
 @@||gvt1.com^$domain=vtvgo.vn
 
 ! NGHE VOV GIAO THÔNNG
-@@||100ycdn.com^$important !Cho nghe VOV giao thông trên Music Assistant
+@@||100ycdn.com^$important ! Cho nghe VOV giao thông trên Music Assistant
