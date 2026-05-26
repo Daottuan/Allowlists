@@ -235,17 +235,22 @@
 
 ! 14. VTVGO CORE
 @@||vtvgo.vn^
-@@||*.vtvgo.vn^
 ! --- API / Player ---
 @@||*vtvgo*.vtvdigital.vn^
 @@||*api*vtvgo*.vtvdigital.vn^
 @@||*ios*vtvgo*.vtvdigital.vn^
 @@||*android*vtvgo*.vtvdigital.vn^
 @@||vn-*-api-vtvgo.vtvdigital.vn^
+@@||api-vtvgo*.vtvdigital.vn^
+@@||mobile-api-vtvgo*.vtvdigital.vn^
 ! --- Streaming ---
 @@||asset-tizen.vtvdigital.vn^
 @@||*tizen*.vtvdigital.vn^
-
+@@||*cdn*vtvgo*.vtvdigital.vn^
+@@||*live*vtvgo*.vtvdigital.vn^
+@@||*vod*vtvgo*.vtvdigital.vn^
+@@||*stream*vtvgo*.vtvdigital.vn^
+@@||*failover*vtvgo*.vtvdigital.vn^
 ! --- Assets ---
 @@||vtvgo-assets.vtvdigital.vn^
 @@||antv-config-cdn-vtvgo.vtvdigital.vn^
