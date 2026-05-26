@@ -101,6 +101,9 @@
 @@||googlehosted.com^
 @@||googleapis.com^$domain=io.mi.com
 @@||gvt1.com^$domain=io.mi.com
+! Trình duyệt kiểm tra an toàn
+@@||safebrowsing.google.com^
+@@||android-safebrowsing.google.com^
 
 ! 8. APPLE & ICLOUD 
 @@||icloud.com^
