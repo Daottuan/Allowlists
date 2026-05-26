@@ -251,6 +251,7 @@
 @@||vtvgolivepre-vtv.vtvdigital.vn^
 @@||vtvgolive-failover.vtvdigital.vn^
 @@||vtvgo-failover.vtvdigital.vn^
+@@||vtvgotimeshift-plus-tn.vtvdigital.vn^
 ! --- Assets ---
 @@||vtvgo-assets.vtvdigital.vn^
 @@||antv-config-cdn-vtvgo.vtvdigital.vn^
