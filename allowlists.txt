@@ -109,6 +109,7 @@
 @@||icloud.com^
 @@||appleid.apple.com^
 @@||idmsa.apple.com^
+@@||token.safebrowsing.apple^
 !  App Store / Updates 
 @@||itunes.apple.com^
 @@||apps.apple.com^
