@@ -245,6 +245,10 @@
 @@||api-vtvgo*.vtvdigital.vn^
 @@||mobile-api-vtvgo*.vtvdigital.vn^
 @@||*.vtvdigital.vn^$important
+! Smart TV Samsung
+@@||samsungelectronics.com^
+@@||samsungcloudsolution.net^
+@@||license.sigmadrm.com^$important
 ! --- Streaming ---
 @@||asset-tizen.vtvdigital.vn^
 @@||*tizen*.vtvdigital.vn^
