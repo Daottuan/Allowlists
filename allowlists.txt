@@ -248,6 +248,7 @@
 @@||web-cache-aws.vtvdigital.vn^
 ! --- Streaming ---
 @@||vtvgolive-vtv.vtvdigital.vn^
+@@||vtvgolivepre-vtv.vtvdigital.vn^
 @@||vtvgolive-failover.vtvdigital.vn^
 @@||vtvgo-failover.vtvdigital.vn^
 ! --- Assets ---
