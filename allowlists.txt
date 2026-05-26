@@ -236,26 +236,20 @@
 ! 14. VTVGO CORE
 @@||vtvgo.vn^
 @@||*.vtvgo.vn^
-@@||smarttv-api-vtvgo.vtvdigital.vn^
-@@||app-config-cdn-vtvgo.vtvdigital.vn^
-@@||asset-tizen.vtvdigital.vn^
 ! --- API / Player ---
-@@||ios-api-vtvgo.vtvdigital.vn
-@@||vn-web-api-vtvgo.vtvdigital.vn
-@@||android-api-vtvgo.vtvdigital.vn
-@@||web-api-vtvgo.vtvdigital.vn^
-@@||cache-api-vtvgo.vtvdigital.vn^
-@@||web-cache-aws.vtvdigital.vn^
+@@||*vtvgo*.vtvdigital.vn^
+@@||*api*vtvgo*.vtvdigital.vn^
+@@||*ios*vtvgo*.vtvdigital.vn^
+@@||*android*vtvgo*.vtvdigital.vn^
+@@||vn-*-api-vtvgo.vtvdigital.vn^
 ! --- Streaming ---
-@@||vtvgolive-vtv.vtvdigital.vn^
-@@||vtvgolivepre-vtv.vtvdigital.vn^
-@@||vtvgolive-failover.vtvdigital.vn^
-@@||vtvgo-failover.vtvdigital.vn^
-@@||vtvgotimeshift-plus-tn.vtvdigital.vn^
+@@||asset-tizen.vtvdigital.vn^
+@@||*tizen*.vtvdigital.vn^
+
 ! --- Assets ---
 @@||vtvgo-assets.vtvdigital.vn^
 @@||antv-config-cdn-vtvgo.vtvdigital.vn^
 ! --- Google video / SDK ---
 @@||imasdk.googleapis.com^$domain=vtvgo.vn
-@@||gvt1.com^$domain=vtvgo.vn
 @@||googlevideo.com^$domain=vtvgo.vn
+@@||gvt1.com^$domain=vtvgo.vn
