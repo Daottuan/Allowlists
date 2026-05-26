@@ -68,6 +68,7 @@
 @@||shopee.co.id^
 @@||susercontent.com^
 @@||shopeemobile.com^
+@@||app.shopeepay.vn^$important ! Bỏ chặn shopee pay
 @@||sg-live.slatic.net^  (một số API/CDN có thể dùng chung hệ Lazada)
 @@||*.zaloapp.com^
 @@||*.dlmd.me^
@@ -258,3 +259,6 @@
 @@||imasdk.googleapis.com^$domain=vtvgo.vn
 @@||googlevideo.com^$domain=vtvgo.vn
 @@||gvt1.com^$domain=vtvgo.vn
+
+! NGHE VOV GIAO THÔNNG
+@@||100ycdn.com^$important !Cho nghe VOV giao thông trên Music Assistant
