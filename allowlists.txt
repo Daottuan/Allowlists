@@ -244,6 +244,7 @@
 @@||vn-*-api-vtvgo.vtvdigital.vn^
 @@||api-vtvgo*.vtvdigital.vn^
 @@||mobile-api-vtvgo*.vtvdigital.vn^
+@@||*.vtvdigital.vn^$important
 ! --- Streaming ---
 @@||asset-tizen.vtvdigital.vn^
 @@||*tizen*.vtvdigital.vn^
