@@ -68,9 +68,10 @@
 @@||shopee.co.id^
 @@||susercontent.com^
 @@||shopeemobile.com^
-@@||app.shopeepay.vn^$important ! Bỏ chặn shopee pay
+@@||app.shopeepay.vn^$important
 @@||sg-live.slatic.net^  (một số API/CDN có thể dùng chung hệ Lazada)
 @@||*.zaloapp.com^
+@@||web.facebook.com^
 @@||*.dlmd.me^
 @@||*.mdchat.me^
 @@||file-stal-12.dlfl.vn^$important  !(chặn zalo gửi file)
