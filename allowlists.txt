@@ -70,6 +70,8 @@
 @@||shopeemobile.com^
 @@||app.shopeepay.vn^$important
 @@||sg-live.slatic.net^  (một số API/CDN có thể dùng chung hệ Lazada)
+! Zalo
+@@||dlfl.vn^
 @@||*.zaloapp.com^
 @@||web.facebook.com^
 @@||*.dlmd.me^
@@ -217,11 +219,14 @@
 @@||bz-sdk.open.extension.getui.com^
 
 ! 12. HOMEASSISTANT 
+@@||blynk.cloud^
 @@||airvisual.com^
 @@||api.airvisual.com
 @@||daottuan.blogspot.com^
+! Camera imou life
 @@||*.imoulife.com^
-@@||blynk.cloud^
+@@||easy4ipcloud.com^
+@@||dolynkcloud.com^
 
 ! 13. THIẾT BỊ LG, LG THINQ
 @@||lge.com^
@@ -269,6 +274,9 @@
 @@||imasdk.googleapis.com^$domain=vtvgo.vn
 @@||googlevideo.com^$domain=vtvgo.vn
 @@||gvt1.com^$domain=vtvgo.vn
+! FPT play
+@@||live.fptplay53.net^$important
+@@||auth.api.gitv.tv^$important
 
 ! NGHE VOV GIAO THÔNNG
 @@||100ycdn.com^$important
