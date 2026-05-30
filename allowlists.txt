@@ -12,6 +12,7 @@
 
 ! 2. TIN TỨC 
 @@||thanhnien.vn^
+@@||thanhnien.com.vn^
 @@||cand.vn^
 @@||baobacninhtv.vn^
 @@||dantri.com.vn^
