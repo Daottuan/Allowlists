@@ -109,6 +109,7 @@
 @@||android-safebrowsing.google.com^
 
 ! 8. APPLE & ICLOUD 
+@@||apple.com^
 @@||icloud.com^
 @@||appleid.apple.com^
 @@||idmsa.apple.com^
@@ -280,3 +281,7 @@
 
 ! NGHE VOV GIAO THÔNNG
 @@||100ycdn.com^$important
+
+! Đây là reverse DNS lookup, làm chậm phân giải tên miền trong một số trường hợp mạng
+@@||in-addr.arpa^$important
+
