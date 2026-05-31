@@ -76,6 +76,7 @@
 @@||app.shopeepay.vn^$important
 @@||sg-live.slatic.net^  (một số API/CDN có thể dùng chung hệ Lazada)
 ! ZALO
+@@||flchat.vn^
 @@||dlfl.vn^
 @@||*.zaloapp.com^
 @@||web.facebook.com^
