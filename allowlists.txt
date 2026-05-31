@@ -45,6 +45,8 @@
 @@||hdbank.com.vn^
 @@||shb.com.vn^
 @@||liobank.vn^
+@@||digibank.vn^
+
 
 ! 4. TỔ CHỨC THẺ
 @@||napas.com.vn^
