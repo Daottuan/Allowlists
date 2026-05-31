@@ -290,4 +290,4 @@
 ! Đây là reverse DNS lookup, làm chậm phân giải tên miền trong một số trường hợp mạng
 @@||in-addr.arpa^$important
 ! 70mai
-@@||70mail.com^
+@@||70mai.com^
