@@ -79,6 +79,7 @@
 @@||dlfl.vn^
 @@||*.zaloapp.com^
 @@||web.facebook.com^
+@@||fbcdn.net^
 @@||*.dlmd.me^
 @@||*.mdchat.me^
 @@||file-stal-12.dlfl.vn^$important  !(chặn zalo gửi file)
