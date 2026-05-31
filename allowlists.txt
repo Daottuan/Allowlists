@@ -79,6 +79,7 @@
 @@||dlfl.vn^
 @@||*.zaloapp.com^
 @@||web.facebook.com^
+@@||facebook.com^
 @@||fbcdn.net^
 @@||*.dlmd.me^
 @@||*.mdchat.me^
