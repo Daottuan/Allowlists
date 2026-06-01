@@ -18,6 +18,7 @@
 @@||baobacninhtv.vn^
 @@||dantri.com.vn^
 @@||vov.vn^
+@@||sggp.org.vn^
 ! VIETNAMNET
 @@||vietnamnet.vn^
 @@||*.vnncdn.net^
