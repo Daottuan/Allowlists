@@ -292,9 +292,21 @@
 
 ! Đây là reverse DNS lookup, làm chậm phân giải tên miền trong một số trường hợp mạng
 @@||in-addr.arpa^$important
+
 ! 70mai
 @@||70mai.com^
+
 ! VIETLOT
 @@||vietlott-sms.vn^
+
 ! CHAT GPT
 @@!!chatgpt.com^
+
+! TUYA PLATFORM
+@@||tuyacn.com^
+@@||tuyaus.com^
+@@||out-fe-base-eks-pp-1ad6b32eb5dbe9d3.elb.us-west-2.amazonaws.com^$important
+@@||tuya.com^
+@@||consent.trustarc.com^$important
+@@||smartlife.applink.smart321.com^$important
+@@||m1-us.lifeaiot.com^$important
