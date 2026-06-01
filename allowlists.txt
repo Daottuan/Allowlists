@@ -301,7 +301,7 @@
 @@||vietlott-sms.vn^
 
 ! CHAT GPT
-@@!!chatgpt.com^
+@@||chatgpt.com^
 
 ! TUYA PLATFORM
 @@||tuyacn.com^
