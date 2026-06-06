@@ -10,7 +10,8 @@
 @@||vneid.gov.vn^
 @@||vnpost.vn^
 
-! 2. TIN TỨC 
+! 2. TIN TỨC
+@@||znews.vn^
 @@||tienphong.vn^
 @@||thanhnien.vn^
 @@||thanhnien.com.vn^
