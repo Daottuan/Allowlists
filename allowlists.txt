@@ -16,6 +16,7 @@
 @@||thanhnien.vn^
 @@||thanhnien.com.vn^
 @@||cand.vn^
+@@||anninhthudo.vn^
 @@||baobacninhtv.vn^
 @@||dantri.com.vn^
 @@||vov.vn^
@@ -78,6 +79,7 @@
 @@||app.shopeepay.vn^$important
 @@||sg-live.slatic.net^  (một số API/CDN có thể dùng chung hệ Lazada)
 ! ZALO
+@@||zdn.vn^
 @@||flchat.vn^
 @@||dlfl.vn^
 @@||*.zaloapp.com^
@@ -312,3 +314,6 @@
 @@||consent.trustarc.com^$important
 @@||smartlife.applink.smart321.com^$important
 @@||m1-us.lifeaiot.com^$important
+
+! PLEX
+@@||plex.tv^
