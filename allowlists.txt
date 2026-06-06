@@ -317,3 +317,16 @@
 
 ! PLEX
 @@||plex.tv^
+
+! BỎ CHẶN CHO TỪNG THIẾT BỊ 
+@@||google.com^$client='iPhone 17 Prm'
+@@||google.com^$client='iPhone 17'
+@@||google.com^$client='iPhone 12'
+@@||google.com^$client='Macbook Air'
+@@||apple.com^$client='Pi 5'
+@@||google.com^$client='Pi 5'
+@@||google.com^$client='Mipad 5'
+@@||sp.zalo.me^$client='Macbook Air'
+@@||argotunnel.com^$client='Pi 4'
+@@||cloudflare.com^$client='Macbook Air'
+@@||cloudflare.com^$client='iPhone 17 Prm'
