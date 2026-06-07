@@ -331,3 +331,5 @@
 @@||argotunnel.com^$client='Pi 5'
 @@||cloudflare.com^$client='Macbook Air'
 @@||cloudflare.com^$client='iPhone 17 Prm'
+@@||cloudflare.com^$client='Pi 5'
+@@||cloudflare.com^$client='Pi 4'
