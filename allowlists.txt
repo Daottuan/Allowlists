@@ -78,13 +78,13 @@
 ! (Áp dụng cho: iPhone 17 Prm, iPhone 17, iPhone 12, Macbook Air)
 
 ! --- Các trang web và dịch vụ cốt lõi của Shopee ---
-@@||shopee.vn^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air'
-@@||shopee.co.id^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air'
-@@||shopeemobile.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air'
+@@||shopee.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'
+@@||shopee.co.id^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'
+@@||shopeemobile.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'
 
 ! --- Máy chủ chứa ảnh sản phẩm, video và tài nguyên giao diện ---
-@@||susercontent.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air'
-@@||sg-live.slatic.net^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air'
+@@||susercontent.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'
+@@||sg-live.slatic.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'
 ! ZALO
 @@||zdn.vn^
 @@||flchat.vn^
@@ -104,24 +104,24 @@
 
 ! --- Các dịch vụ cốt lõi của Google (Tìm kiếm, Gmail, Tài khoản, Bảo mật) ---
 @@||google.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'
-@@||gmail.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
-@@||blogger.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
+@@||gmail.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
+@@||blogger.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
 
 ! --- YouTube (Bao gồm Web, App, Video Server và Ảnh đại diện/Thumbnail) ---
-@@||youtube.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
-@@||youtu.be^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
-@@||googlevideo.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
-@@||ytimg.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
+@@||youtube.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
+@@||youtu.be^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
+@@||googlevideo.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
+@@||ytimg.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
 
 ! --- Máy chủ chứa tài nguyên tĩnh, hình ảnh, file hệ thống ---
-@@||gstatic.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
-@@||ggpht.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
-@@||googleusercontent.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
-@@||googlehosted.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
+@@||gstatic.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
+@@||ggpht.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
+@@||googleusercontent.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
+@@||googlehosted.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
 
 ! --- Hệ thống API kết nối cho ứng dụng và CAPTCHA ---
-@@||googleapis.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
-@@||recaptcha.net^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
+@@||googleapis.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
+@@||recaptcha.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
 
 ! --- Sửa lỗi riêng cho thiết bị Xiaomi (Mipad 5) khi kết nối nhà thông minh ---
 @@||gvt1.com^$domain=io.mi.com,client='Mipad 5'
@@ -129,19 +129,19 @@
 ! === Định nghĩa danh sách các thiết bị được phép ===
 ! (Áp dụng cho Pi 5, HomePod1, HomePod2, Macbook Air, Localhost)
 
-@@||apple.com^$client='Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
-@@||icloud.com^$client='Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
-@@||me.com^$client='Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
+@@||apple.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
+@@||icloud.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
+@@||me.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
 
 ! === Tải ứng dụng và Nội dung media ===
-@@||mzstatic.com^$client='Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
-@@||cdn-apple.com^$client='Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
-@@||aaplimg.com^$client='Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
+@@||mzstatic.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
+@@||cdn-apple.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
+@@||aaplimg.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
 
 ! === Bảo mật và Kết nối nâng cao ===
-@@||apple-dns.net^$client='Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
-@@||mask.icloud.com^$client='Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
-@@||token.safebrowsing.apple^$client='Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
+@@||apple-dns.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
+@@||mask.icloud.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
+@@||token.safebrowsing.apple^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
 
 ! 9. MICROSOFT & OFFICE
 @@||microsoft.com^
@@ -322,12 +322,8 @@
 
 
 
-@@||sp.zalo.me^$client='Macbook Air'
+@@||sp.zalo.me^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'
 
-@@||argotunnel.com^$client='Pi 4'
-@@||argotunnel.com^$client='Pi 5'
+@@||argotunnel.com^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'
 
-@@||cloudflare.com^$client='Macbook Air'
-@@||cloudflare.com^$client='iPhone 17 Prm'
-@@||cloudflare.com^$client='Pi 5'
-@@||cloudflare.com^$client='Pi 4'
+@@||cloudflare.com^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'
