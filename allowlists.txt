@@ -93,6 +93,7 @@
 ! 7. GOOGLE & YOUTUBE
 @@||accounts.google.com^
 @@||myaccount.google.com^
+@@||blogger.com^
 !  Gmail 
 @@||mail.google.com^
 @@||gmail.com^
