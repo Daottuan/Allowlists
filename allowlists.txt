@@ -144,6 +144,9 @@
 @@||azureedge.net^
 
 ! 10. HẠ TẦNG MẠNG, CDN & TECH (Tránh lỗi load web)
+@@||docker.com^
+@@||docker.io^
+@@||ghcr.io^
 @@||github.com^
 @@||githubusercontent.com^
 @@||githubassets.com^
