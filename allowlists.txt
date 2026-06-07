@@ -331,6 +331,10 @@
 @@||google.com^$client='Localhost'
 
 @@||facebook.com^$client='Macbook Air'
+@@||facebook.com^$client='iPhone 17 Prm'
+@@||facebook.com^$client='iPhone 17'
+@@||facebook.com^$client='iPhone 12'
+@@||facebook.com^$client='Mipad 5'
 
 @@||apple.com^$client='Pi 5'
 @@||apple.com^$client='HomePod1'
