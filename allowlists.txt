@@ -28,11 +28,9 @@
 
 ! BAOMOI
 @@||baomoi.com^
-@@||static.baomoi.com^
-@@||img.baomoi.com^
 @@||photo-baomoi.bmcdn.me^
 @@||bmcdn.me^
-@@||cdn.baomoi.com^
+
 
 ! 3. NGÂN HÀNG & TÀI CHÍNH
 @@||pawwalls.com^
