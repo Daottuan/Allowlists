@@ -328,5 +328,6 @@
 @@||google.com^$client='Mipad 5'
 @@||sp.zalo.me^$client='Macbook Air'
 @@||argotunnel.com^$client='Pi 4'
+@@||argotunnel.com^$client='Pi 5'
 @@||cloudflare.com^$client='Macbook Air'
 @@||cloudflare.com^$client='iPhone 17 Prm'
