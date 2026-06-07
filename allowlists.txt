@@ -161,55 +161,41 @@
 @@||graph.facebook.com^
 @@||tailscale.com^
 
-! 11. XIAOMI HIME/ MIOT CN
+! 11. XIAOMI HOME / MIOT CN
 ! Core API / Account
-
 @@||io.mi.com^
 @@||iot.mi.com^
 @@||account.xiaomi.com^
 @@||micloud.xiaomi.net^
-
-! Realtime / MQTT
+! Tracking
 @@||tracking.miui.com^
 @@||tracking.intl.miui.com^
-! MIOT / Device Specs
+! MIOT Specs
 @@||miot-spec.com^
 @@||miot-spec.org^
-! Robot vacuum / Maps
-
-
+! Maps
 @@||restapi.amap.com^
 @@||estapi.amap.com^
-!  JPush realtime 
-@@||*.getui.net^
-@@||*.igexin.com^
-@@||*.jpush.cn^
-@@||*.jpush.io^
-@@||s.jpush.cn
-@@||sis.jpush.io
-@@||sis-ipv6.jpush.cn^
-@@||tsis-ipv6.jpush.cn^
-@@||tsis.jpush.cn^
-@@||stats-ipv6.jpush.cn^
-@@||stats.jpush.cn^
-@@||status-ipv6.jpush.cn^
-@@||ali-stats.jpush.cn
+! JPush / Getui Push
+@@||jpush.cn^
+@@||jpush.io^
+@@||getui.net^
+@@||getui.com^
+! VolcEngine
 @@||apmplus.volces.com^
 @@||gator.volces.com^
 @@||tab.volces.com^
 @@||lf3-data.volccdn.com^
 ! Xiaomi CDN / Assets
-@@||*.mi-img.com^
-@@||cdn.cnbj1.fds.api.mi-img.com^
-@@||cnbj1.fds.api.xiaomi.com
-@@||*.fds.api.xiaomi.com^
-! Dreame ecosystem
+@@||mi-img.com^
+@@||fds.api.xiaomi.com^
+@@||cnbj1.fds.api.xiaomi.com^
+! Dreame
 @@||dreame-tech.com^
 @@||dreame-technology.com^
 @@||dreame-technology.cn^
 @@||git.dreame.tech^
-! Getui Push SDK
-@@||*.getui.com^
+! Getui SDK
 @@||bz-sdk.open.extension.getui.com^
 
 ! 12. HOMEASSISTANT 
