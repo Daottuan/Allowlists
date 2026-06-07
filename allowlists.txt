@@ -74,11 +74,14 @@
 @@||9pay.vn^
 
 ! 6. ZALO, FACEBOOK, Shopee@@||shopee.com^
-@@||shopee.vn^
+@@||shopee.vn^$client='iPhone 17 Prm'
+@@||shopee.vn^$client='iPhone 17'
+@@||shopee.vn^$client='iPhone 12'
+@@||shopee.vn^$client='Macbook Air'
 @@||shopee.co.id^
 @@||susercontent.com^
 @@||shopeemobile.com^
-@@||app.shopeepay.vn^$important
+@@||app.shopeepay.vn^
 @@||sg-live.slatic.net^  (một số API/CDN có thể dùng chung hệ Lazada)
 ! ZALO
 @@||zdn.vn^
@@ -86,67 +89,61 @@
 @@||dlfl.vn^
 @@||*.zaloapp.com^
 
+! FACEBOOK
+@@||facebook.com^$client='Macbook Air'
+@@||facebook.com^$client='iPhone 17 Prm'
+@@||facebook.com^$client='iPhone 17'
+@@||facebook.com^$client='iPhone 12'
+@@||facebook.com^$client='Mipad 5'
 @@||fbcdn.net^
 @@||*.dlmd.me^
 @@||*.mdchat.me^
 
 
 ! 7. GOOGLE & YOUTUBE
-@@||accounts.google.com^
-@@||myaccount.google.com^
-@@||blogger.com^
-!  Gmail 
-@@||mail.google.com^
-@@||gmail.com^
-!  YouTube 
-@@||youtube.com^
-@@||youtu.be^
-@@||googlevideo.com^
-@@||ytimg.com^
-!  Static assets 
-@@||gstatic.com^
-@@||ggpht.com^
-@@||googleusercontent.com^
-!  APIs required by apps 
-@@||imasdk.googleapis.com^
-@@||googleapis.com^
-@@||firebase.googleapis.com^
-!  CAPTCHA / Login 
-@@||recaptcha.google.com^
-@@||recaptcha.net^
-!  Hosted app resources 
-@@||googlehosted.com^
-@@||googleapis.com^$domain=io.mi.com
-@@||gvt1.com^$domain=io.mi.com
-! Trình duyệt kiểm tra an toàn
-@@||safebrowsing.google.com^
-@@||android-safebrowsing.google.com^
+! === Định nghĩa danh sách thiết bị được phép sử dụng Google ===
+! (Áp dụng cho: iPhone 17 Prm, iPhone 17, iPhone 12, Macbook Air, Pi 5, Pi 4, Mipad 5, Localhost)
 
+! --- Các dịch vụ cốt lõi của Google (Tìm kiếm, Gmail, Tài khoản, Bảo mật) ---
+@@||google.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
+@@||gmail.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
+@@||blogger.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
+
+! --- YouTube (Bao gồm Web, App, Video Server và Ảnh đại diện/Thumbnail) ---
+@@||youtube.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
+@@||youtu.be^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
+@@||googlevideo.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
+@@||ytimg.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
+
+! --- Máy chủ chứa tài nguyên tĩnh, hình ảnh, file hệ thống ---
+@@||gstatic.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
+@@||ggpht.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
+@@||googleusercontent.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
+@@||googlehosted.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
+
+! --- Hệ thống API kết nối cho ứng dụng và CAPTCHA ---
+@@||googleapis.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
+@@||recaptcha.net^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
+
+! --- Sửa lỗi riêng cho thiết bị Xiaomi (Mipad 5) khi kết nối nhà thông minh ---
+@@||gvt1.com^$domain=io.mi.com,client='Mipad 5'
 ! 8. APPLE & ICLOUD 
-@@||apple.com^
-@@||icloud.com^
-@@||appleid.apple.com^
-@@||idmsa.apple.com^
-@@||token.safebrowsing.apple^
-!  App Store / Updates 
-@@||itunes.apple.com^
-@@||apps.apple.com^
-@@||mzstatic.com^
-@@||cdn-apple.com^
-@@||aaplimg.com^
-!  Apple Push / Notifications 
-@@||push.apple.com^
-@@||courier.push.apple.com^
-!  DNS / Connectivity 
-@@||apple-dns.net^
-@@||mask.icloud.com^
-!  iCloud Mail / Legacy 
-@@||me.com^
-!  Find My / Device services 
-@@||findmy.apple.com^
-!  Certificate / OCSP 
-@@||ocsp.apple.com^
-@@||valid.apple.com^
+! === Định nghĩa danh sách các thiết bị được phép ===
+! (Áp dụng cho Pi 5, HomePod1, HomePod2, Macbook Air, Localhost)
+
+@@||apple.com^$client='Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
+@@||icloud.com^$client='Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
+@@||me.com^$client='Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
+
+! === Tải ứng dụng và Nội dung media ===
+@@||mzstatic.com^$client='Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
+@@||cdn-apple.com^$client='Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
+@@||aaplimg.com^$client='Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
+
+! === Bảo mật và Kết nối nâng cao ===
+@@||apple-dns.net^$client='Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
+@@||mask.icloud.com^$client='Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
+@@||token.safebrowsing.apple^$client='Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
 
 ! 9. MICROSOFT & OFFICE
 @@||microsoft.com^
@@ -321,24 +318,11 @@
 @@||plex.tv^
 
 ! BỎ CHẶN CHO TỪNG THIẾT BỊ 
-@@||google.com^$client='iPhone 17 Prm'
-@@||google.com^$client='iPhone 17'
-@@||google.com^$client='iPhone 12'
-@@||google.com^$client='Macbook Air'
-@@||google.com^$client='Pi 5'
-@@||google.com^$client='Pi 4'
-@@||google.com^$client='Mipad 5'
-@@||google.com^$client='Localhost'
 
-@@||facebook.com^$client='Macbook Air'
-@@||facebook.com^$client='iPhone 17 Prm'
-@@||facebook.com^$client='iPhone 17'
-@@||facebook.com^$client='iPhone 12'
-@@||facebook.com^$client='Mipad 5'
 
-@@||apple.com^$client='Pi 5'
-@@||apple.com^$client='HomePod1'
-@@||apple.com^$client='HomePod2'
+
+
+
 
 @@||sp.zalo.me^$client='Macbook Air'
 
