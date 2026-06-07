@@ -23,8 +23,8 @@
 @@||sggp.org.vn^
 ! VIETNAMNET
 @@||vietnamnet.vn^
-@@||*.vnncdn.net^
-@@||*.vietnamnetjsc.vn^
+@@||vnncdn.net^
+@@||vietnamnetjsc.vn^
 
 ! BAOMOI
 @@||baomoi.com^
