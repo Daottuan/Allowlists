@@ -74,17 +74,14 @@
 @@||9pay.vn^
 
 ! 6. ZALO, FACEBOOK, Shopee@@||shopee.com^
-! === Định nghĩa danh sách thiết bị được phép sử dụng Shopee ===
-! (Áp dụng cho: iPhone 17 Prm, iPhone 17, iPhone 12, Macbook Air)
-
 ! --- Các trang web và dịch vụ cốt lõi của Shopee ---
 @@||shopee.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'
 @@||shopee.co.id^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'
 @@||shopeemobile.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'
-
 ! --- Máy chủ chứa ảnh sản phẩm, video và tài nguyên giao diện ---
 @@||susercontent.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'
 @@||sg-live.slatic.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'
+
 ! ZALO
 @@||zdn.vn^
 @@||flchat.vn^
@@ -99,9 +96,6 @@
 
 
 ! 7. GOOGLE & YOUTUBE
-! === Định nghĩa danh sách thiết bị được phép sử dụng Google ===
-! (Áp dụng cho: iPhone 17 Prm, iPhone 17, iPhone 12, Macbook Air, Pi 5, Pi 4, Mipad 5, Localhost)
-
 ! --- Các dịch vụ cốt lõi của Google (Tìm kiếm, Gmail, Tài khoản, Bảo mật) ---
 @@||google.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'
 @@||gmail.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
@@ -125,13 +119,11 @@
 
 ! --- Sửa lỗi riêng cho thiết bị Xiaomi (Mipad 5) khi kết nối nhà thông minh ---
 @@||gvt1.com^$domain=io.mi.com,client='Mipad 5'
-! 8. APPLE & ICLOUD 
-! === Định nghĩa danh sách các thiết bị được phép ===
-! (Áp dụng cho Pi 5, HomePod1, HomePod2, Macbook Air, Localhost)
 
+! 8. APPLE & ICLOUD 
 @@||apple.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
-@@||icloud.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
-@@||me.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5','HomePod1','HomePod2','Macbook Air','Localhost'
+@@||icloud.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
+@@||me.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
 
 ! === Tải ứng dụng và Nội dung media ===
 @@||mzstatic.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
@@ -301,7 +293,7 @@
 @@||vietlott-sms.vn^
 
 ! CHAT GPT
-@@||chatgpt.com^
+@@||chatgpt.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
 
 ! TUYA PLATFORM
 @@||tuyacn.com^
@@ -316,14 +308,6 @@
 @@||plex.tv^
 
 ! BỎ CHẶN CHO TỪNG THIẾT BỊ 
-
-
-
-
-
-
 @@||sp.zalo.me^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'
-
 @@||argotunnel.com^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'
-
 @@||cloudflare.com^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'
