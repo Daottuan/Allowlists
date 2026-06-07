@@ -85,7 +85,7 @@
 @@||flchat.vn^
 @@||dlfl.vn^
 @@||*.zaloapp.com^
-@@||facebook.com^
+
 @@||fbcdn.net^
 @@||*.dlmd.me^
 @@||*.mdchat.me^
@@ -329,6 +329,8 @@
 @@||google.com^$client='Pi 4'
 @@||google.com^$client='Mipad 5'
 @@||google.com^$client='Localhost'
+
+@@||facebook.com^$client='Macbook Air'
 
 @@||apple.com^$client='Pi 5'
 @@||apple.com^$client='HomePod1'
