@@ -165,27 +165,21 @@
 
 ! 11. XIAOMI HIME/ MIOT CN
 ! Core API / Account
-@@||api.io.mi.com^
-@@||app.io.mi.com^
-@@||*.io.mi.com^
-@@||account.xiaomi.com^
-@@||api.micloud.xiaomi.net^
-@@||micloud.xiaomi.net^
+
+@@||io.mi.com^
 @@||iot.mi.com^
+@@||account.xiaomi.com^
+@@||micloud.xiaomi.net^
+
 ! Realtime / MQTT
-@@||mqtt.io.mi.com^
-@@||ot.io.mi.com^
-@@||ott.io.mi.com^
-@@||cn.ot.io.mi.com^
 @@||tracking.miui.com^
 @@||tracking.intl.miui.com^
 ! MIOT / Device Specs
 @@||miot-spec.com^
 @@||miot-spec.org^
 ! Robot vacuum / Maps
-@@||vacuum.iot.mi.com^
-@@||map.io.mi.com^
-@@||map.api.io.mi.com^
+
+
 @@||restapi.amap.com^
 @@||estapi.amap.com^
 !  JPush realtime 
