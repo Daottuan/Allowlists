@@ -107,7 +107,7 @@
 ! (Áp dụng cho: iPhone 17 Prm, iPhone 17, iPhone 12, Macbook Air, Pi 5, Pi 4, Mipad 5, Localhost)
 
 ! --- Các dịch vụ cốt lõi của Google (Tìm kiếm, Gmail, Tài khoản, Bảo mật) ---
-@@||google.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12', Macbook Air,'Pi 5','Pi 4','Mipad 5', Localhost
+@@||google.com^$client='iPhone 17 Prm','iPhone 17',iPhone 12, Macbook Air,'Pi 5','Pi 4','Mipad 5', Localhost
 @@||gmail.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
 @@||blogger.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air','Pi 5','Pi 4','Mipad 5','Localhost'
 
