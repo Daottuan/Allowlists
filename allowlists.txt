@@ -95,25 +95,25 @@
 
 ! 7. GOOGLE & YOUTUBE
 ! --- Các dịch vụ cốt lõi của Google (Tìm kiếm, Gmail, Tài khoản, Bảo mật) ---
-@@||google.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'TV Q7F Lan'
+@@||google.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'
 @@||gmail.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
 @@||blogger.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
 
 ! --- YouTube (Bao gồm Web, App, Video Server và Ảnh đại diện/Thumbnail) ---
-@@||youtube.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'
-@@||youtu.be^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'
-@@||googlevideo.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'
-@@||ytimg.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'
+@@||youtube.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'
+@@||youtu.be^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'
+@@||googlevideo.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'
+@@||ytimg.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'
 
 ! --- Máy chủ chứa tài nguyên tĩnh, hình ảnh, file hệ thống ---
-@@||gstatic.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'
-@@||ggpht.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'
-@@||googleusercontent.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'
-@@||googlehosted.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'
+@@||gstatic.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'
+@@||ggpht.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'
+@@||googleusercontent.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'
+@@||googlehosted.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'
 
 ! --- Hệ thống API kết nối cho ứng dụng và CAPTCHA ---
-@@||googleapis.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
-@@||recaptcha.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
+@@||googleapis.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'
+@@||recaptcha.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'
 
 ! 8. APPLE & ICLOUD 
 @@||apple.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
