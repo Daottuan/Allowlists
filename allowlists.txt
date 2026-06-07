@@ -93,7 +93,6 @@
 @@||*.dlmd.me^
 @@||*.mdchat.me^
 
-
 ! 7. GOOGLE & YOUTUBE
 ! --- Các dịch vụ cốt lõi của Google (Tìm kiếm, Gmail, Tài khoản, Bảo mật) ---
 @@||google.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'
@@ -115,9 +114,6 @@
 ! --- Hệ thống API kết nối cho ứng dụng và CAPTCHA ---
 @@||googleapis.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
 @@||recaptcha.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
-
-! --- Sửa lỗi riêng cho thiết bị Xiaomi (Mipad 5) khi kết nối nhà thông minh ---
-@@||gvt1.com^$domain=io.mi.com,client='Mipad 5'
 
 ! 8. APPLE & ICLOUD 
 @@||apple.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
@@ -208,7 +204,7 @@
 @@||api.airvisual.com
 @@||daottuan.blogspot.com^
 ! Camera imou life
-@@||*.imoulife.com^
+@@||imoulife.com^
 @@||easy4ipcloud.com^
 @@||dolynkcloud.com^
 
