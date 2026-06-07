@@ -224,35 +224,16 @@
 
 ! 14. VTVGO CORE
 @@||vtvgo.vn^
-! --- API / Player ---
-@@||*vtvgo*.vtvdigital.vn^
-@@||*api*vtvgo*.vtvdigital.vn^
-@@||*ios*vtvgo*.vtvdigital.vn^
-@@||*android*vtvgo*.vtvdigital.vn^
-@@||vn-*-api-vtvgo.vtvdigital.vn^
-@@||api-vtvgo*.vtvdigital.vn^
-@@||mobile-api-vtvgo*.vtvdigital.vn^
-@@||*.vtvdigital.vn^$important
-! Smart TV Samsung
+@@||vtvdigital.vn^$important
+! Samsung TV / DRM
 @@||samsungelectronics.com^
 @@||samsungcloudsolution.net^
 @@||license.sigmadrm.com^$important
-! --- Streaming ---
-@@||asset-tizen.vtvdigital.vn^
-@@||*tizen*.vtvdigital.vn^
-@@||*cdn*vtvgo*.vtvdigital.vn^
-@@||*live*vtvgo*.vtvdigital.vn^
-@@||*vod*vtvgo*.vtvdigital.vn^
-@@||*stream*vtvgo*.vtvdigital.vn^
-@@||*failover*vtvgo*.vtvdigital.vn^
-! --- Assets ---
-@@||vtvgo-assets.vtvdigital.vn^
-@@||antv-config-cdn-vtvgo.vtvdigital.vn^
-! --- Google video / SDK ---
+! Google SDK / Video
 @@||imasdk.googleapis.com^$domain=vtvgo.vn
 @@||googlevideo.com^$domain=vtvgo.vn
 @@||gvt1.com^$domain=vtvgo.vn
-! FPT play
+! FPT Play
 @@||live.fptplay53.net^$important
 @@||auth.api.gitv.tv^$important
 
