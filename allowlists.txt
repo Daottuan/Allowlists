@@ -35,7 +35,9 @@
 @@||cdn.baomoi.com^
 
 ! 3. NGÂN HÀNG & TÀI CHÍNH
+@@||pawwalls.com^
 @@||vcb.com.vn^
+@@||techcombank.com^
 @@||vietcombank.com.vn^
 @@||techcombank.com.vn^
 @@||mbbank.com.vn^
