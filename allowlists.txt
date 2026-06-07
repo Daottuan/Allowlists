@@ -74,15 +74,17 @@
 @@||9pay.vn^
 
 ! 6. ZALO, FACEBOOK, Shopee@@||shopee.com^
-@@||shopee.vn^$client='iPhone 17 Prm'
-@@||shopee.vn^$client='iPhone 17'
-@@||shopee.vn^$client='iPhone 12'
-@@||shopee.vn^$client='Macbook Air'
-@@||shopee.co.id^
-@@||susercontent.com^
-@@||shopeemobile.com^
-@@||app.shopeepay.vn^
-@@||sg-live.slatic.net^  (một số API/CDN có thể dùng chung hệ Lazada)
+! === Định nghĩa danh sách thiết bị được phép sử dụng Shopee ===
+! (Áp dụng cho: iPhone 17 Prm, iPhone 17, iPhone 12, Macbook Air)
+
+! --- Các trang web và dịch vụ cốt lõi của Shopee ---
+@@||shopee.vn^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air'
+@@||shopee.co.id^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air'
+@@||shopeemobile.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air'
+
+! --- Máy chủ chứa ảnh sản phẩm, video và tài nguyên giao diện ---
+@@||susercontent.com^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air'
+@@||sg-live.slatic.net^$client='iPhone 17 Prm','iPhone 17','iPhone 12','Macbook Air'
 ! ZALO
 @@||zdn.vn^
 @@||flchat.vn^
