@@ -197,6 +197,11 @@
 @@||git.dreame.tech^
 ! Getui SDK
 @@||bz-sdk.open.extension.getui.com^
+@@||gepush.com^
+@@||logs.amap.com^
+@@||easytomessage.com^
+@@||gs-loc.ls-apple.com.akadns.net^
+
 
 ! 12. HOMEASSISTANT 
 @@||blynk.cloud^
