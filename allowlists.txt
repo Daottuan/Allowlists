@@ -210,19 +210,13 @@
 
 ! 13. THIẾT BỊ LG, LG THINQ
 @@||lge.com^
+@@||lgeapi.com^
 @@||lgthinq.com^
 @@||lgsmartplatform.com^
+@@||lgemembers.com^
 @@||lgemp-prd.net^
-@@||api-kic.lgthinq.com^
-@@||vn.lgeapi.com^
-@@||*.lgthinq.com^
-@@||*.lgsmartplatform.com^
-@@||*.lgemembers.com^
-@@||*.aws-thinq-prd.net^
-@@||kic-lgthinq-com.aws-thinq-prd.net^
-@@||kic-svc-lgthinq-com.aws-thinq-prd.net^
-@@||kic-api-lgthinq-com.aws-thinq-prd.net^
-@@||vn-lgeapi-com.esi-prd.net^
+@@||aws-thinq-prd.net^
+@@||esi-prd.net^
 
 ! 14. VTVGO CORE
 @@||vtvgo.vn^
