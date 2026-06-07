@@ -88,7 +88,8 @@
 
 ! FACEBOOK
 @@||facebook.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'
-@@||fbcdn.net^
+@@||fbcdn.net^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'
+@@||messenger.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'
 @@||*.dlmd.me^
 @@||*.mdchat.me^
 
