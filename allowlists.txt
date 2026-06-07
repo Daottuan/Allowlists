@@ -329,6 +329,7 @@
 @@||google.com^$client='Pi 5'
 @@||google.com^$client='Pi 4'
 @@||google.com^$client='Mipad 5'
+@@||google.com^$client='Localhost'
 
 @@||apple.com^$client='Pi 5'
 @@||apple.com^$client='HomePod1'
