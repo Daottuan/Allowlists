@@ -204,7 +204,8 @@
 @@||gs-loc.ls-apple.com.akadns.net^
 
 
-! 12. HOMEASSISTANT 
+! 12. HOMEASSISTANT
+@@||accsmart.panasonic.com^
 @@||blynk.cloud^
 @@||airvisual.com^
 @@||api.airvisual.com
@@ -227,6 +228,7 @@
 ! 14. VTVGO CORE
 @@||vtvgo.vn^
 @@||vtvdigital.vn^$important
+@@||gviet.vn^
 ! Samsung TV / DRM
 @@||samsungiotcloud.com^
 @@||samsungelectronics.com^
@@ -237,6 +239,8 @@
 @@||samsungqbe.com^
 @@||d1oxlq5h9kq8q5.cloudfront.net^
 @@||samsungosp.com^
+@@||samsungads.com^
+@@||s0.2mdn.net^
 ! Google SDK / Video
 @@||imasdk.googleapis.com^$domain=vtvgo.vn
 @@||googlevideo.com^$domain=vtvgo.vn
