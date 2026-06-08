@@ -230,6 +230,7 @@
 ! Samsung TV / DRM
 @@||samsungelectronics.com^
 @@||samsungcloudsolution.net^
+@@||samsungcloudsolution.com^
 @@||license.sigmadrm.com^$important
 @@||musicid.samsungcloud.tv^
 @@||gpm.samsungqbe.com^
