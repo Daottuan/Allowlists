@@ -233,10 +233,10 @@
 @@||samsungcloudsolution.net^
 @@||samsungcloudsolution.com^
 @@||license.sigmadrm.com^$important
-@@||musicid.samsungcloud.tv^
-@@||gpm.samsungqbe.com^
+@@||samsungcloud.tv^
+@@||samsungqbe.com^
 @@||d1oxlq5h9kq8q5.cloudfront.net^
-@@||gld.push.samsungosp.com^
+@@||samsungosp.com^
 ! Google SDK / Video
 @@||imasdk.googleapis.com^$domain=vtvgo.vn
 @@||googlevideo.com^$domain=vtvgo.vn
