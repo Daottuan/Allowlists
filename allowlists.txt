@@ -235,6 +235,7 @@
 @@||musicid.samsungcloud.tv^
 @@||gpm.samsungqbe.com^
 @@||d1oxlq5h9kq8q5.cloudfront.net^
+@@||gld.push.samsungosp.com^
 ! Google SDK / Video
 @@||imasdk.googleapis.com^$domain=vtvgo.vn
 @@||googlevideo.com^$domain=vtvgo.vn
