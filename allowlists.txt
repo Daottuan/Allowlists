@@ -115,7 +115,7 @@
 ! --- Hệ thống API kết nối cho ứng dụng và CAPTCHA ---
 @@||googleapis.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'
 @@||recaptcha.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'
-
+@@||pki.goog^
 ! 8. APPLE & ICLOUD 
 @@||apple.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
 @@||icloud.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
@@ -228,6 +228,7 @@
 @@||vtvgo.vn^
 @@||vtvdigital.vn^$important
 ! Samsung TV / DRM
+@@||samsungiotcloud.com^
 @@||samsungelectronics.com^
 @@||samsungcloudsolution.net^
 @@||samsungcloudsolution.com^
