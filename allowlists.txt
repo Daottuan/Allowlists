@@ -240,7 +240,7 @@
 @@||d1oxlq5h9kq8q5.cloudfront.net^
 @@||samsungosp.com^
 @@||samsungads.com^
-@@||s0.2mdn.net^
+@@||2mdn.net^
 ! Google SDK / Video
 @@||imasdk.googleapis.com^$domain=vtvgo.vn
 @@||googlevideo.com^$domain=vtvgo.vn
