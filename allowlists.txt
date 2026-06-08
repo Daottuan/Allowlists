@@ -231,6 +231,9 @@
 @@||samsungelectronics.com^
 @@||samsungcloudsolution.net^
 @@||license.sigmadrm.com^$important
+@@||musicid.samsungcloud.tv^
+@@||gpm.samsungqbe.com^
+@@||d1oxlq5h9kq8q5.cloudfront.net^
 ! Google SDK / Video
 @@||imasdk.googleapis.com^$domain=vtvgo.vn
 @@||googlevideo.com^$domain=vtvgo.vn
@@ -270,3 +273,4 @@
 @@||sp.zalo.me^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'
 @@||argotunnel.com^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'
 @@||cloudflare.com^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'
+@@||amazontrust.com^
