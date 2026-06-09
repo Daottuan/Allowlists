@@ -269,11 +269,10 @@
 ! TUYA PLATFORM
 @@||tuyacn.com^
 @@||tuyaus.com^
-@@||out-fe-base-eks-pp-1ad6b32eb5dbe9d3.elb.us-west-2.amazonaws.com^$important
 @@||tuya.com^
-@@||consent.trustarc.com^$important
-@@||smartlife.applink.smart321.com^$important
-@@||m1-us.lifeaiot.com^$important
+@@||consent.trustarc.com^
+@@||smartlife.applink.smart321.com^
+@@||m1-us.lifeaiot.com^
 
 ! PLEX
 @@||plex.tv^
@@ -282,4 +281,5 @@
 @@||sp.zalo.me^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'
 @@||argotunnel.com^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'
 @@||cloudflare.com^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'
-@@||amazontrust.com^
+@@||amazontrust.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'
+@@||amazonaws.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'
