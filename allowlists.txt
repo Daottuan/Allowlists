@@ -271,8 +271,8 @@
 @@||tuyaus.com^
 @@||tuya.com^
 @@||consent.trustarc.com^
-@@||smartlife.applink.smart321.com^
-@@||m1-us.lifeaiot.com^
+@@||smart321.com^
+@@||lifeaiot.com^
 
 ! PLEX
 @@||plex.tv^
