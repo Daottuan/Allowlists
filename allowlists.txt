@@ -22,6 +22,7 @@
 @@||dantri.com.vn^
 @@||vov.vn^
 @@||sggp.org.vn^
+@@||cdn.24h.com.vn^
 
 ! VIETNAMNET
 @@||vietnamnet.vn^
