@@ -24,7 +24,7 @@
 @@||sggp.org.vn^
 @@||cdn.24h.com.vn^
 @@||vedge.vcdn.vncdn.net^
-@@||media1.admicro.vn^
+@@||admicro.vn^
 
 
 ! VIETNAMNET
