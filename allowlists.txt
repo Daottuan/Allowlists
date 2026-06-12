@@ -277,6 +277,7 @@
 
 ! PLEX
 @@||plex.tv^
+@@||plex.direct^
 @@||pop.sin.plex.bz^
 
 ! BỎ CHẶN CHO TỪNG THIẾT BỊ 
