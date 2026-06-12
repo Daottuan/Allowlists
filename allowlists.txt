@@ -277,6 +277,7 @@
 
 ! PLEX
 @@||plex.tv^
+@@||pop.sin.plex.bz^
 
 ! BỎ CHẶN CHO TỪNG THIẾT BỊ 
 @@||sp.zalo.me^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'
