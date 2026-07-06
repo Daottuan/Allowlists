@@ -237,6 +237,9 @@
 @@||vtvdigital.vn^$important
 @@||gviet.vn^
 @@||gonewsvod.com^
+@@||vncdn.net^
+@@||veloceed.com^
+
 ! Samsung TV / DRM
 @@||samsungiotcloud.com^
 @@||samsungelectronics.com^
