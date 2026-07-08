@@ -25,14 +25,9 @@
 @@||cdn.24h.com.vn^
 @@||vedge.vcdn.vncdn.net^
 @@||admicro.vn^
-
-
-! VIETNAMNET
 @@||vietnamnet.vn^
 @@||vnncdn.net^
 @@||vietnamnetjsc.vn^
-
-! BAOMOI
 @@||baomoi.com^
 @@||photo-baomoi.bmcdn.me^
 @@||bmcdn.me^
@@ -55,7 +50,6 @@
 @@||liobank.vn^
 @@||digibank.vn^
 
-
 ! 4. TỔ CHỨC THẺ
 @@||napas.com.vn^
 @@||visa.com^
@@ -77,13 +71,11 @@
 @@||9pay.vn^
 
 ! 6. SHOPEE
-! --- Các trang web và dịch vụ cốt lõi của Shopee ---
 @@||shopee.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'
 @@||shopee.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'
 @@||shopeepay.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'
 @@||shopee.co.id^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'
 @@||shopeemobile.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'
-! --- Máy chủ chứa ảnh sản phẩm, video và tài nguyên giao diện ---
 @@||susercontent.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'
 @@||sg-live.slatic.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'
 
@@ -102,25 +94,18 @@
 @@||*.mdchat.me^
 
 ! 7. GOOGLE & YOUTUBE
-! --- CÁC DỊCH VỤ CỐT LÕI CỦA GOOGLE (TÌM KIẾM, GMAIL, TÀI KHOẢN, BẢO MẬT Các dịch vụ cốt lõi của Google) ---
 @@||google.com.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Mipad 5'|'Pi 5'|'Pi 4'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|
 @@||google.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Mipad 5'|'Pi 5'|'Pi 4'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|
 @@||gmail.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Mipad 5'|'Pi 5'|'Pi 4'|'Localhost'
 @@||blogger.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'
-
-! --- YOUTUBE (BAO GỒM WEB, APP, VIDEO SERVER, ẢNH ĐẠI DIỆN VÀ THUMBNAIL) ---
 @@||youtube.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|
 @@||youtu.be^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|
 @@||googlevideo.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|
 @@||ytimg.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|
-
-! --- MÁY CHỦ CHỨA TÀI NGUYÊN TĨNH, HÌNH ẢNH, FILE HỆ THỐNG ---
 @@||gstatic.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|
 @@||ggpht.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|
 @@||googleusercontent.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|
 @@||googlehosted.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|
-
-! --- HỆ THỐNG API KẾT NỐI CHO ỨNG DỤNG VÀ CAPTCHA ---
 @@||googleapis.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|
 @@||recaptcha.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'
 @@||pki.goog^
@@ -130,11 +115,9 @@
 @@||apple.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
 @@||icloud.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
 @@||me.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
-! === Tải ứng dụng và Nội dung media ===
 @@||mzstatic.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
 @@||cdn-apple.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
 @@||aaplimg.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
-! === Bảo mật và Kết nối nâng cao ===
 @@||apple-dns.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
 @@||mask.icloud.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
 @@||token.safebrowsing.apple^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
@@ -174,54 +157,43 @@
 
 
 ! 11. XIAOMI HOME / MIOT CN
-! Core API / Account
 @@||io.mi.com^
 @@||iot.mi.com^
 @@||account.xiaomi.com^
 @@||micloud.xiaomi.net^
-! Tracking
 @@||tracking.miui.com^
 @@||tracking.intl.miui.com^
-! MIOT Specs
 @@||miot-spec.com^
 @@||miot-spec.org^
-! Maps
 @@||restapi.amap.com^
-@@||restapi.amap.com^
-! JPush / Getui Push
+@@||estapi.amap.com^
 @@||jpush.cn^
 @@||jpush.io^
 @@||getui.net^
 @@||getui.com^
-! VolcEngine
 @@||apmplus.volces.com^
 @@||gator.volces.com^
 @@||tab.volces.com^
 @@||lf3-data.volccdn.com^
-! Xiaomi CDN / Assets
 @@||mi-img.com^
 @@||fds.api.xiaomi.com^
 @@||cnbj1.fds.api.xiaomi.com^
-! Dreame
 @@||dreame-tech.com^
 @@||dreame-technology.com^
 @@||dreame-technology.cn^
 @@||git.dreame.tech^
-! Getui SDK
 @@||bz-sdk.open.extension.getui.com^
 @@||gepush.com^
 @@||logs.amap.com^
 @@||easytomessage.com^
 @@||gs-loc.ls-apple.com.akadns.net^
 
-
-! 12. HOMEASSISTANT
+! 12. HOMEASSISTANT, IMOULIFE
 @@||accsmart.panasonic.com^
 @@||blynk.cloud^
 @@||airvisual.com^
 @@||api.airvisual.com^
 @@||daottuan.blogspot.com^
-! Camera imou life
 @@||imoulife.com^
 @@||easy4ipcloud.com^
 @@||dolynkcloud.com^
@@ -260,20 +232,14 @@
 @@||samsunghrm.com^
 @@||2mdn.net^
 @@||info.cspserver.net^$client='Máy Giặt'
-! Google SDK / Video
 @@||imasdk.googleapis.com^$domain=vtvgo.vn
 @@||googlevideo.com^$domain=vtvgo.vn
 @@||gvt1.com^$domain=vtvgo.vn
-
-! FPT PLAY
 @@||live.fptplay53.net^$important
 @@||auth.api.gitv.tv^$important
 
 ! NGHE VOV GIAO THÔNNG
 @@||100ycdn.com^$important
-
-! CHAT GPT
-@@||chatgpt.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
 
 ! TUYA PLATFORM
 @@||tuyacn.com^
@@ -289,14 +255,12 @@
 @@||plex.bz^
 
 
-! BỎ CHẶN KHÁC
+! 15. DỊCH VỤ KHÁC (CHATGPT, PLEX, TUYA...)
 @@||argotunnel.com^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'
 @@||cloudflare.com^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'
 @@||amazontrust.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'
 @@||amazonaws.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'
-! Đây là reverse DNS lookup, làm chậm phân giải tên miền trong một số trường hợp mạng
 @@||in-addr.arpa^$important
-! 70mai
 @@||70mai.com^
-! VIETLOT
 @@||vietlott-sms.vn^
+@@||chatgpt.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
