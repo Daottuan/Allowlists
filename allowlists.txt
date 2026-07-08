@@ -251,6 +251,7 @@
 @@||d1oxlq5h9kq8q5.cloudfront.net^
 @@||samsungosp.com^
 @@||samsungads.com^
+@@||samsunghrm.com^
 @@||2mdn.net^
 @@||info.cspserver.net^$client='Máy Giặt'
 ! Google SDK / Video
