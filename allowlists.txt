@@ -296,5 +296,5 @@
 
 @@||argotunnel.com^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'
 @@||cloudflare.com^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'
-@@||amazontrust.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'
-@@||amazonaws.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'
+@@||amazontrust.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'
+@@||amazonaws.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'
