@@ -240,6 +240,7 @@
 @@||gonewsvod.com^
 @@||vncdn.net^
 @@||veloceed.com^
+@@||vnetwork.dev^
 
 ! Samsung TV / DRM
 @@||samsungiotcloud.com^
