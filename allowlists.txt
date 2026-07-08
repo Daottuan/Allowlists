@@ -142,6 +142,7 @@
 @@||mask.icloud.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
 @@||token.safebrowsing.apple^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'
 
+
 ! 9. MICROSOFT & OFFICE
 @@||microsoft.com^
 @@||microsoftonline.com^
@@ -150,6 +151,7 @@
 @@||outlook.com^
 @@||live.com^
 @@||azureedge.net^
+
 
 ! 10. HẠ TẦNG MẠNG, CDN & TECH (Tránh lỗi load web)
 @@||docker.com^
@@ -172,6 +174,7 @@
 @@||appsflyersdk.com^
 @@||graph.facebook.com^
 @@||tailscale.com^
+
 
 ! 11. XIAOMI HOME / MIOT CN
 ! Core API / Account
@@ -245,7 +248,8 @@
 @@||veloceed.com^
 @@||vnetwork.dev^
 
-! Samsung TV / DRM
+
+! SAMSUNG TV / DRM
 @@||samsungiotcloud.com^
 @@||samsungelectronics.com^
 @@||samsungcloudsolution.net^
@@ -263,7 +267,8 @@
 @@||imasdk.googleapis.com^$domain=vtvgo.vn
 @@||googlevideo.com^$domain=vtvgo.vn
 @@||gvt1.com^$domain=vtvgo.vn
-! FPT Play
+
+! FPT PLAY
 @@||live.fptplay53.net^$important
 @@||auth.api.gitv.tv^$important
 
@@ -294,6 +299,7 @@
 @@||plex.tv^
 @@||plex.direct^
 @@||plex.bz^
+
 
 ! BỎ CHẶN CHO TỪNG THIẾT BỊ 
 
