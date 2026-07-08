@@ -77,8 +77,9 @@
 @@||smartpay.vn^
 @@||9pay.vn^
 
-! 6. ZALO, FACEBOOK, Shopee@@||shopee.com^
+! 6. SHOPEE
 ! --- Các trang web và dịch vụ cốt lõi của Shopee ---
+@@||shopee.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'
 @@||shopee.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'
 @@||shopeepay.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'
 @@||shopee.co.id^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'
