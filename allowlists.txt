@@ -40,7 +40,6 @@
 
 ! 3. NGÂN HÀNG & TÀI CHÍNH
 @@||pawwalls.com^
-@@||vcb.com.vn^
 @@||techcombank.com^
 @@||vietcombank.com.vn^
 @@||techcombank.com.vn^
@@ -188,7 +187,7 @@
 @@||miot-spec.org^
 ! Maps
 @@||restapi.amap.com^
-@@||estapi.amap.com^
+@@||restapi.amap.com^
 ! JPush / Getui Push
 @@||jpush.cn^
 @@||jpush.io^
@@ -220,7 +219,7 @@
 @@||accsmart.panasonic.com^
 @@||blynk.cloud^
 @@||airvisual.com^
-@@||api.airvisual.com
+@@||api.airvisual.com^
 @@||daottuan.blogspot.com^
 ! Camera imou life
 @@||imoulife.com^
