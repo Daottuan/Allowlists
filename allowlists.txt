@@ -232,7 +232,6 @@
 @@||samsunghrm.com^
 @@||cspserver.net^
 @@||2mdn.net^
-@@||info.cspserver.net^$client='Máy Giặt'
 @@||imasdk.googleapis.com^$domain=vtvgo.vn
 @@||googlevideo.com^$domain=vtvgo.vn
 @@||gvt1.com^$domain=vtvgo.vn
