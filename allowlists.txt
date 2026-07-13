@@ -230,6 +230,7 @@
 @@||samsungosp.com^
 @@||samsungads.com^
 @@||samsunghrm.com^
+@@||cspserver.net^
 @@||2mdn.net^
 @@||info.cspserver.net^$client='Máy Giặt'
 @@||imasdk.googleapis.com^$domain=vtvgo.vn
