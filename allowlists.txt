@@ -71,6 +71,7 @@
 @@||9pay.vn^
 
 ! 6. SHOPEE
+@@||shopeefood.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|
 @@||shopee.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|
 @@||shopee.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|
 @@||shopeepay.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|
