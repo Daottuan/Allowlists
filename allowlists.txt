@@ -71,13 +71,13 @@
 @@||9pay.vn^
 
 ! 6. SHOPEE
-@@||shopee.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'
-@@||shopee.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'
-@@||shopeepay.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'
-@@||shopee.co.id^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'
-@@||shopeemobile.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'
-@@||susercontent.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'
-@@||sg-live.slatic.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'
+@@||shopee.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|
+@@||shopee.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|
+@@||shopeepay.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|
+@@||shopee.co.id^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|
+@@||shopeemobile.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|
+@@||susercontent.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|
+@@||sg-live.slatic.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|
 
 ! ZALO
 @@||zdn.vn^
@@ -87,9 +87,9 @@
 @@||zalo.me^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'
 
 ! FACEBOOK
-@@||facebook.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|
-@@||fbcdn.net^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'
-@@||messenger.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|
+@@||facebook.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|'Pi 5'|'Pi 4'|
+@@||fbcdn.net^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'Pi 5'|'Pi 4'|
+@@||messenger.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|'Pi 5'|'Pi 4'|
 @@||*.dlmd.me^
 @@||*.mdchat.me^
 
