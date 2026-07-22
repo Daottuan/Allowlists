@@ -15,7 +15,7 @@
 @@||znews.vn^
 @@||tienphong.vn^
 @@||thanhnien.vn^
-@@||thanhnien.com.vn^
+
 @@||cand.vn^
 @@||anninhthudo.vn^
 @@||baobacninhtv.vn^
