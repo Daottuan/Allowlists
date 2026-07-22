@@ -20,7 +20,6 @@
 @@||dantri.com.vn^
 @@||vov.vn^
 @@||sggp.org.vn^
-@@||cdn.24h.com.vn^
 @@||vedge.vcdn.vncdn.net^
 @@||vietnamnet.vn^
 @@||vnncdn.net^
