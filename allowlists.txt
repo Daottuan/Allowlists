@@ -24,7 +24,6 @@
 @@||vietnamnet.vn^
 @@||vnncdn.net^
 @@||vietnamnetjsc.vn^
-@@||photo-baomoi.bmcdn.me^
 @@||bmcdn.me^
 
 
