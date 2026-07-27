@@ -92,7 +92,7 @@
 ! 7. GOOGLE & YOUTUBE
 @@||google.com.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Mipad 5'|'Pi 5'|'Pi 4'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'Viettel'|'PC Desk'|
 @@||google.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Mipad 5'|'Pi 5'|'Pi 4'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'Viettel'|'PC Desk'|
-@@||gmail.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Mipad 5'|'Pi 5'|'Pi 4'|'Localhost''S23 Ultra'|'Viettel'|'PC Desk'|
+@@||gmail.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Mipad 5'|'Pi 5'|'Pi 4'|'Localhost'|'S23 Ultra'|'Viettel'|'PC Desk'|
 @@||blogger.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'Viettel'|'PC Desk'|
 @@||youtube.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'Viettel'|'PC Desk'|
 @@||youtu.be^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'Viettel'|'PC Desk'|
