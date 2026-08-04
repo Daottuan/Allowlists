@@ -85,10 +85,12 @@
 @@||*.zaloapp.com^
 @@||zalo.me^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|'Pi 5'|'Pi 4'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
 
-! FACEBOOK
+! FACEBOOK , INSTAGRAM
 @@||facebook.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|'Pi 5'|'Pi 4'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
 @@||fbcdn.net^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'Pi 5'|'Pi 4'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
 @@||messenger.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|'Pi 5'|'Pi 4'|'PC Desk'|'iPhone 16'|'A33'|
+@@||instagram.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|'Pi 5'|'Pi 4'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
+@@||cdninstagram.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|'Pi 5'|'Pi 4'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
 @@||*.dlmd.me^
 @@||*.mdchat.me^
 
