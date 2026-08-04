@@ -83,7 +83,7 @@
 @@||maps.app.goo.gl^
 @@||share.google^
 @@||*.zaloapp.com^
-@@||zalo.me^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
+@@||zalo.me^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|'Pi 5'|'Pi 4'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
 
 ! FACEBOOK
 @@||facebook.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|'Pi 5'|'Pi 4'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
