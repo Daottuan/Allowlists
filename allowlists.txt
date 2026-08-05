@@ -133,6 +133,7 @@
 @@||outlook.com^
 @@||live.com^
 @@||azureedge.net^
+@@||msauth.net^
 
 
 ! 10. HẠ TẦNG MẠNG, CDN & TECH (Tránh lỗi load web)
