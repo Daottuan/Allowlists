@@ -271,3 +271,5 @@
 
 ! 16. DỊCH VỤ KHÁC
 @@||locketcamera.com^
+@@||capcutapi.com^$important
+@@||capcutvod.com^$important
