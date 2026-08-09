@@ -17,7 +17,7 @@
 !@@||cand.vn^
 !@@||anninhthudo.vn^
 @@||baobacninhtv.vn^
-!@@||dantri.com.vn^
+@@||dantri.com.vn^
 @@||vov.vn^
 !@@||sggp.org.vn^
 @@||vedge.vcdn.vncdn.net^
