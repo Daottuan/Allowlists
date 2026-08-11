@@ -2,6 +2,7 @@
 ! Allowlists by Daottuan
 ! ======================
 ||daotuan.xyz^$dnsrewrite=10.30.0.254
+||daotuan.xyz^$dnsrewrite=10.30.0.253
 @@|daotuan.xyz^$dnsrewrite
 @@|dao.daotuan.xyz^$dnsrewrite
 ! 1. CỔNG DỊCH VỤ CÔNG & CHÍNH PHỦ
