@@ -5,6 +5,7 @@
 ||daotuan.xyz^$dnsrewrite=10.30.0.253
 @@|daotuan.xyz^$dnsrewrite
 @@|dao.daotuan.xyz^$dnsrewrite
+@@|amlich.daotuan.xyz^$dnsrewrite
 @@|mqtt5.daotuan.xyz^$dnsrewrite
 ! 1. CỔNG DỊCH VỤ CÔNG & CHÍNH PHỦ
 @@||dichvucong.gov.vn^
