@@ -171,10 +171,13 @@
 @@||mijia.tech^
 @@||xiaomi.com^
 @@||xiaomi.net^
+@@||xiaomi.edgesuite.net^
 @@||miui.com^
+@@||xiaomiyoupin.com^
 @@||miot-spec.com^
 @@||miot-spec.org^
 @@||amap.com^
+@@||gepush.com^
 @@||jpush.cn^
 @@||jpush.io^
 @@||getui.net^
@@ -187,7 +190,7 @@
 @@||dreame-technology.cn^
 @@||git.dreame.tech^
 
-@@||gepush.com^
+
 
 @@||easytomessage.com^
 @@||com.akadns.net^
