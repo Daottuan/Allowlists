@@ -202,6 +202,7 @@ mô! ======================
 @@||airvisual.com^
 @@||api.airvisual.com^
 @@||daottuan.blogspot.com^
+@@||api.openweathermap.org^
 @@||imoulife.com^
 @@||easy4ipcloud.com^
 @@||dolynkcloud.com^
