@@ -167,7 +167,7 @@
 
 
 ! 11. XIAOMI HOME / MIOT CN
-@@||miwifi.com^
+
 @@||mi.com^
 @@||mijia.tech^
 @@||xiaomi.com^
