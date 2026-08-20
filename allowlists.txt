@@ -60,6 +60,7 @@
 @@||momocdn.net^
 @@||zalopay.vn^
 @@||vnpay.vn^
+@@||edgevnpay.vn^
 @@||vtcpay.vn^
 @@||viettelmoney.vn^
 @@||viettelpay.vn^
