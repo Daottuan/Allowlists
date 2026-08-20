@@ -189,6 +189,7 @@
 @@||dreame-technology.com^
 @@||dreame-technology.cn^
 @@||git.dreame.tech^
+@@||miinsurtech.com^
 
 
 
