@@ -275,6 +275,7 @@ mô! ======================
 @@||chatgpt.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
 
 ! 16. DỊCH VỤ KHÁC
+@@||version.immich.cloud
 @@||locketcamera.com^
 @@||capcutapi.com^$important
 @@||capcutvod.com^$important
