@@ -186,9 +186,9 @@
 @@||dreame-technology.com^
 @@||dreame-technology.cn^
 @@||git.dreame.tech^
-@@||bz-sdk.open.extension.getui.com^
+
 @@||gepush.com^
-@@||logs.amap.com^
+
 @@||easytomessage.com^
 @@||com.akadns.net^
 
