@@ -167,9 +167,8 @@
 
 
 ! 11. XIAOMI HOME / MIOT CN
+@@||mi.com^
 @@||mijia.tech^
-@@||io.mi.com^
-@@||iot.mi.com^
 @@||account.xiaomi.com^
 @@||micloud.xiaomi.net^
 @@||tracking.miui.com^
