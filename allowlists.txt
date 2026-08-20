@@ -280,6 +280,7 @@ mô! ======================
 @@||cskh.evn.com.vn
 @@||apicskhevn.npc.com.vn
 @@||version.immich.cloud
+@@||ws.connect.raspberrypi.com
 @@||locketcamera.com^
 @@||capcutapi.com^$important
 @@||capcutvod.com^$important
