@@ -183,15 +183,14 @@
 @@||getui.net^
 @@||getui.com^
 @@||volces.com^
-@@||lf3-data.volccdn.com^
+@@||volccdn.com^
 @@||mi-img.com^
+@@||mi-fds.com^
 @@||dreame-tech.com^
 @@||dreame-technology.com^
 @@||dreame-technology.cn^
 @@||git.dreame.tech^
 @@||miinsurtech.com^
-
-
 
 @@||easytomessage.com^
 @@||com.akadns.net^
