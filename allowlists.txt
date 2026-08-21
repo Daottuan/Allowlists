@@ -16,15 +16,15 @@
 @@||vnpost.vn^
 
 ! 2. TIN TỨC
-@@||epicdn.me^
 @@||cand.vn^
 @@||baobacninhtv.vn^
 @@||dantri.com.vn^
 @@||vov.vn^
-@@||vedge.vcdn.vncdn.net^
-@@||vnncdn.net^
 @@||vietnamnetjsc.vn^
+@@||vnncdn.net^
 @@||bmcdn.me^
+@@||epicdn.me^
+@@||vedge.vcdn.vncdn.net^
 
 
 ! 3. NGÂN HÀNG & TÀI CHÍNH
