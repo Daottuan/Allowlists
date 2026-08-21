@@ -30,7 +30,7 @@
 @@||vnncdn.net^
 @@||bmcdn.me^
 @@||epicdn.me^
-!@@||newscdn.vn^
+@@||newscdn.vn^
 @@||vedge.vcdn.vncdn.net^
 
 
