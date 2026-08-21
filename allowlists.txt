@@ -234,7 +234,7 @@
 
 ! 14. VTVGO CORE
 @@||vtvgo.vn^
-@@||vtvdigital.vn^$important
+@@||vtvdigital.vn^
 @@||gviet.vn^
 @@||gonewsvod.com^
 @@||vncdn.net^
@@ -248,7 +248,7 @@
 @@||samsungelectronics.com^
 @@||samsungcloudsolution.net^
 @@||samsungcloudsolution.com^
-@@||license.sigmadrm.com^$important
+@@||license.sigmadrm.com^
 @@||samsungcloud.tv^
 @@||samsungqbe.com^
 @@||d1oxlq5h9kq8q5.cloudfront.net^
@@ -260,12 +260,12 @@
 @@||imasdk.googleapis.com^$domain=vtvgo.vn
 @@||googlevideo.com^$domain=vtvgo.vn
 @@||gvt1.com^$domain=vtvgo.vn
-@@||live.fptplay53.net^$important
-@@||auth.api.gitv.tv^$important
+@@||live.fptplay53.net^
+@@||auth.api.gitv.tv^
 
 
 ! NGHE VOV GIAO THÔNNG
-@@||100ycdn.com^$important
+@@||100ycdn.com^
 
 
 ! TUYA PLATFORM
@@ -289,7 +289,7 @@
 @@||cloudflare.net^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'PC Desk'|'iPhone 16'|'A33'|
 @@||amazontrust.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'PC Desk'|'iPhone 16'|'A33'|
 @@||amazonaws.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'PC Desk'|'iPhone 16'|'A33'|
-@@||in-addr.arpa^$important
+@@||in-addr.arpa^
 @@||70mai.com^
 @@||vietlott-sms.vn^
 @@||chatgpt.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Mipad 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'PC Desk'|'iPhone 16'|'A33'|
