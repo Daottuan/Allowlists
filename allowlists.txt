@@ -299,6 +299,8 @@
 @@||garmin.com^
 @@||version.immich.cloud^
 @@||raspberrypi.com^
+@@||letsencrypt.org^
+
 @@||locketcamera.com^
 @@||capcutapi.com^
 @@||capcutvod.com^
