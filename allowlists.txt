@@ -17,16 +17,11 @@
 
 ! 2. TIN TỨC
 @@||epicdn.me^
-!@@||znews.vn^
-!@@||tienphong.vn^
-!@@||cand.vn^
-!@@||anninhthudo.vn^
+@@||cand.vn^
 @@||baobacninhtv.vn^
 @@||dantri.com.vn^
 @@||vov.vn^
-!@@||sggp.org.vn^
 @@||vedge.vcdn.vncdn.net^
-!@@||vietnamnet.vn^
 @@||vnncdn.net^
 @@||vietnamnetjsc.vn^
 @@||bmcdn.me^
