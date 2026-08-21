@@ -278,10 +278,9 @@
 
 
 ! PLEX
-@@||plex.tv,plex.direct,plex.bz^
-!@@||plex.tv^
-!@@||plex.direct^
-!@@||plex.bz^
+@@||plex.tv^
+@@||plex.direct^
+@@||plex.bz^
 
 
 ! 15. DỊCH VỤ KHÁC (CHATGPT, PLEX, TUYA...)
