@@ -147,6 +147,7 @@
 @@||office365.com^
 @@||outlook.com^
 @@||live.com^
+@@||hotmail.com^
 @@||azureedge.net^
 @@||msauth.net^
 
@@ -290,7 +291,7 @@
 
 
 ! 16. DỊCH VỤ KHÁC
-@@||hotmail.com^
+
 @@||garmin.com^
 @@||gwkong.evnhanoi.vn
 @@||cskh.evn.com.vn
