@@ -18,7 +18,7 @@
 ! 2. TIN TỨC
 @@||cand.vn^
 @@||baobacninhtv.vn^
-@@||dantri.com.vn^
+!@@||dantri.com.vn^
 @@||vov.vn^
 @@||vietnamnetjsc.vn^
 @@||vnncdn.net^
