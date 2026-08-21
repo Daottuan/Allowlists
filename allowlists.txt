@@ -141,6 +141,7 @@
 
 
 ! 9. MICROSOFT & OFFICE
+@@||api.onedrive.com^
 @@||microsoft.com^
 @@||microsoftonline.com^
 @@||office.com^
