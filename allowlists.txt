@@ -296,12 +296,12 @@
 
 ! 16. DỊCH VỤ KHÁC
 
+@@||gwkong.evnhanoi.vn^
+@@||evn.com.vn^
+@@||npc.com.vn^
 @@||garmin.com^
-@@||gwkong.evnhanoi.vn
-@@||cskh.evn.com.vn
-@@||apicskhevn.npc.com.vn
-@@||version.immich.cloud
+@@||version.immich.cloud^
 @@||raspberrypi.com^
 @@||locketcamera.com^
-@@||capcutapi.com^$important
-@@||capcutvod.com^$important
+@@||capcutapi.com^
+@@||capcutvod.com^
