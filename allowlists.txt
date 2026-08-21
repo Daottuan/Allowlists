@@ -26,12 +26,12 @@
 @@||dantri.com.vn^
 @@||vietnamnet.vn^
 @@||vov.vn^
-@@||vietnamnetjsc.vn^
-@@||vnncdn.net^
-@@||bmcdn.me^
-@@||epicdn.me^
-@@||newscdn.vn^
-@@||vedge.vcdn.vncdn.net^
+!@@||vietnamnetjsc.vn^
+!@@||vnncdn.net^
+!@@||bmcdn.me^
+!@@||epicdn.me^
+!@@||newscdn.vn^
+!@@||vedge.vcdn.vncdn.net^
 
 
 ! 3. NGÂN HÀNG & TÀI CHÍNH
