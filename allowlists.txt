@@ -243,6 +243,7 @@
 
 
 ! SAMSUNG TV / DRM
+@@||smartthings.com^
 @@||samsungiotcloud.com^
 @@||samsungelectronics.com^
 @@||samsungcloudsolution.net^
