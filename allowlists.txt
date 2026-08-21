@@ -19,6 +19,7 @@
 @@||vneid.gov.vn^
 @@||vnpost.vn^
 
+
 ! 2. TIN TỨC
 @@||cand.vn^
 @@||baobacninhtv.vn^
@@ -50,10 +51,12 @@
 @@||liobank.vn^
 @@||digibank.vn^
 
+
 ! 4. TỔ CHỨC THẺ
 @@||napas.com.vn^
 @@||visa.com^
 @@||digitalcardservice.com^
+
 
 ! 5. VÍ ĐIỆN TỬ & CỔNG THANH TOÁN
 @@||momo.vn^
@@ -71,6 +74,7 @@
 @@||smartpay.vn^
 @@||9pay.vn^
 
+
 ! 6. SHOPEE
 @@||shopeefood.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
 @@||deliverynow.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
@@ -82,6 +86,7 @@
 @@||susercontent.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
 @@||sg-live.slatic.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
 
+
 ! ZALO
 @@||flchat.vn^
 @@||dlfl.vn^
@@ -91,46 +96,48 @@
 @@||maps.app.goo.gl^
 @@||share.google^
 @@||*.zaloapp.com^
-@@||zalo.me^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|'Pi 5'|'Pi 4'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
+@@||zalo.me^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|'Pi 5'|'Pi 4'|'PC Desk'|'iPhone 16'|'A33'|
+
 
 ! FACEBOOK , INSTAGRAM
-@@||facebook.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|'Pi 5'|'Pi 4'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||fbcdn.net^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'Pi 5'|'Pi 4'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
+@@||facebook.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|'Pi 5'|'Pi 4'|'PC Desk'|'iPhone 16'|'A33'|
+@@||fbcdn.net^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'Pi 5'|'Pi 4'|'PC Desk'|'iPhone 16'|'A33'|
 @@||messenger.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|'Pi 5'|'Pi 4'|'PC Desk'|'iPhone 16'|'A33'|
-@@||instagram.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|'Pi 5'|'Pi 4'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||cdninstagram.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|'Pi 5'|'Pi 4'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
+@@||instagram.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|'Pi 5'|'Pi 4'|'PC Desk'|'iPhone 16'|'A33'|
+@@||cdninstagram.com^$client='Macbook Air'|'iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Mipad 5'|'Localhost'|'S23 Ultra'|'Pi 5'|'Pi 4'|'PC Desk'|'iPhone 16'|'A33'|
 @@||*.dlmd.me^
 @@||*.mdchat.me^
 
+
 ! 7. GOOGLE & YOUTUBE
-@@||google.com.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Mipad 5'|'Pi 5'|'Pi 4'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||google.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Mipad 5'|'Pi 5'|'Pi 4'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||gmail.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Mipad 5'|'Pi 5'|'Pi 4'|'Localhost'|'S23 Ultra'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||blogger.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||youtube.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||youtu.be^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||googlevideo.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||ytimg.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||gstatic.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||ggpht.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||googleusercontent.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||googlehosted.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||googleapis.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||recaptcha.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'S23 Ultra'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
+@@||google.com.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Mipad 5'|'Pi 5'|'Pi 4'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||google.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Mipad 5'|'Pi 5'|'Pi 4'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||gmail.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Mipad 5'|'Pi 5'|'Pi 4'|'Localhost'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||blogger.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'PC Desk'|'iPhone 16'|'A33'|
+@@||youtube.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||youtu.be^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'PC Desk'|'iPhone 16'|'A33'|
+@@||googlevideo.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||ytimg.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||gstatic.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'PC Desk'|'iPhone 16'|'A33'|
+@@||ggpht.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||googleusercontent.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||googlehosted.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||googleapis.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||recaptcha.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
 @@||pki.goog^
-@@||gvt1.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'S23 Ultra'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
+@@||gvt1.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
 
 
 ! 8. APPLE & ICLOUD 
-@@||apple.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||icloud.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||me.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||mzstatic.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||cdn-apple.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||aaplimg.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||apple-dns.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||mask.icloud.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||token.safebrowsing.apple^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
+@@||apple.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'PC Desk'|'iPhone 16'|'A33'|
+@@||icloud.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'PC Desk'|'iPhone 16'|'A33'|
+@@||me.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'PC Desk'|'iPhone 16'|'A33'|
+@@||mzstatic.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'PC Desk'|'iPhone 16'|'A33'|
+@@||cdn-apple.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'PC Desk'|'iPhone 16'|'A33'|
+@@||aaplimg.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'PC Desk'|'iPhone 16'|'A33'|
+@@||apple-dns.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'PC Desk'|'iPhone 16'|'A33'|
+@@||mask.icloud.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'PC Desk'|'iPhone 16'|'A33'|
+@@||token.safebrowsing.apple^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Pi 4'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'PC Desk'|'iPhone 16'|'A33'|
 
 
 ! 9. MICROSOFT & OFFICE
@@ -193,9 +200,9 @@
 @@||dreame-technology.cn^
 @@||git.dreame.tech^
 @@||miinsurtech.com^
-
 @@||easytomessage.com^
 @@||com.akadns.net^
+
 
 ! 12. HOMEASSISTANT, IMOULIFE
 @@||accsmart.panasonic.com^
@@ -208,6 +215,7 @@
 @@||easy4ipcloud.com^
 @@||dolynkcloud.com^
 
+
 ! 13. THIẾT BỊ LG, LG THINQ
 @@||lge.com^
 @@||lgeapi.com^
@@ -217,6 +225,7 @@
 @@||lgemp-prd.net^
 @@||aws-thinq-prd.net^
 @@||esi-prd.net^
+
 
 ! 14. VTVGO CORE
 @@||vtvgo.vn^
@@ -248,8 +257,10 @@
 @@||live.fptplay53.net^$important
 @@||auth.api.gitv.tv^$important
 
+
 ! NGHE VOV GIAO THÔNNG
 @@||100ycdn.com^$important
+
 
 ! TUYA PLATFORM
 @@||tuyacn.com^
@@ -259,6 +270,7 @@
 @@||smart321.com^
 @@||lifeaiot.com^
 
+
 ! PLEX
 @@||plex.tv^
 @@||plex.direct^
@@ -266,15 +278,16 @@
 
 
 ! 15. DỊCH VỤ KHÁC (CHATGPT, PLEX, TUYA...)
-@@||argotunnel.com^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||cloudflare.com^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||cloudflare.net^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||amazontrust.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
-@@||amazonaws.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
+@@||argotunnel.com^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'PC Desk'|'iPhone 16'|'A33'|
+@@||cloudflare.com^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'PC Desk'|'iPhone 16'|'A33'|
+@@||cloudflare.net^$client='Macbook Air'|'iPhone 17 Prm'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'PC Desk'|'iPhone 16'|'A33'|
+@@||amazontrust.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'PC Desk'|'iPhone 16'|'A33'|
+@@||amazonaws.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'PC Desk'|'iPhone 16'|'A33'|
 @@||in-addr.arpa^$important
 @@||70mai.com^
 @@||vietlott-sms.vn^
-@@||chatgpt.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Mipad 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'Viettel'|'PC Desk'|'iPhone 16'|'A33'|
+@@||chatgpt.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Pi 5'|'Mipad 5'|'HomePod1'|'HomePod2'|'Macbook Air'|'Localhost'|'PC Desk'|'iPhone 16'|'A33'|
+
 
 ! 16. DỊCH VỤ KHÁC
 @@||garmin.com^
