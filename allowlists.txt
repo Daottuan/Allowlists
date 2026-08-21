@@ -28,7 +28,7 @@
 @@||vov.vn^
 !@@||vietnamnetjsc.vn^
 !@@||vnncdn.net^
-!@@||bmcdn.me^
+@@||photo-baomoi.bmcdn.me^
 !@@||epicdn.me^
 !@@||newscdn.vn^
 !@@||vedge.vcdn.vncdn.net^
