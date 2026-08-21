@@ -29,7 +29,7 @@
 @@||vietnamnetjsc.vn^
 @@||vnncdn.net^
 @@||bmcdn.me^
-!@@||epicdn.me^
+@@||epicdn.me^
 !@@||newscdn.vn^
 @@||vedge.vcdn.vncdn.net^
 
