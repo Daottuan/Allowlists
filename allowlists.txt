@@ -26,7 +26,7 @@
 @@||dantri.com.vn^
 @@||vietnamnet.vn^
 @@||vov.vn^
-!@@||vietnamnetjsc.vn^
+@@||vietnamnetjsc.vn^
 !@@||vnncdn.net^
 @@||photo-baomoi.bmcdn.me^
 !@@||epicdn.me^
