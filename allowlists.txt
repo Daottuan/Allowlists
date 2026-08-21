@@ -155,6 +155,7 @@
 @@||hotmail.com^
 @@||azureedge.net^
 @@||msauth.net^
+@@||msftauth.net^
 
 
 ! 10. HẠ TẦNG MẠNG, CDN & TECH (Tránh lỗi load web)
