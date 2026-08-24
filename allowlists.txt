@@ -76,15 +76,15 @@
 
 
 ! 6. SHOPEE
-!@@||shopeefood.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
-!@@||deliverynow.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
-!@@||shopee.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
-!@@||shopee.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
-!@@||shopeepay.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
-!@@||shopee.co.id^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
-!@@||shopeemobile.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
-!@@||susercontent.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
-!@@||sg-live.slatic.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
+@@||shopeefood.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
+@@||deliverynow.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
+@@||shopee.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
+@@||shopee.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
+@@||shopeepay.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
+@@||shopee.co.id^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
+@@||shopeemobile.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
+@@||susercontent.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
+@@||sg-live.slatic.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Localhost'|'Pi 5'|'Pi 4'|'iPhone 16'|'A33'|
 
 
 ! ZALO
