@@ -112,21 +112,21 @@
 
 
 ! 7. GOOGLE & YOUTUBE
-!@@||google.com.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Mipad 5'|'Pi 5'|'Pi 4'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
-!@@||google.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Mipad 5'|'Pi 5'|'Pi 4'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
-!@@||gmail.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Mipad 5'|'Pi 5'|'Pi 4'|'Localhost'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
-!@@||blogger.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'PC Desk'|'iPhone 16'|'A33'|
-!@@||youtube.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
-!@@||youtu.be^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'PC Desk'|'iPhone 16'|'A33'|
-!@@||googlevideo.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
-!@@||ytimg.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
-!@@||gstatic.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'PC Desk'|'iPhone 16'|'A33'|
-!@@||ggpht.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
-!@@||googleusercontent.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
-!@@||googlehosted.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
-!@@||googleapis.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
-!@@||recaptcha.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
-!@@||pki.goog^
+@@||google.com.vn^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Mipad 5'|'Pi 5'|'Pi 4'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||google.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Mipad 5'|'Pi 5'|'Pi 4'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||gmail.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Mipad 5'|'Pi 5'|'Pi 4'|'Localhost'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||blogger.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'PC Desk'|'iPhone 16'|'A33'|
+@@||youtube.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||youtu.be^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'PC Desk'|'iPhone 16'|'A33'|
+@@||googlevideo.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||ytimg.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||gstatic.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'PC Desk'|'iPhone 16'|'A33'|
+@@||ggpht.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||googleusercontent.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||googlehosted.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||googleapis.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'HomePod1'|'HomePod2'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||recaptcha.net^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
+@@||pki.goog^
 !@@||gvt1.com^$client='iPhone 17 Prm'|'iPhone 17'|'iPhone 12'|'Macbook Air'|'Pi 5'|'Pi 4'|'Mipad 5'|'Localhost'|'TV Q7F Lan'|'TV Xiaomi'|'S23 Ultra'|'PC Desk'|'iPhone 16'|'A33'|
 
 
