@@ -23,13 +23,16 @@
 ! 2. TIN TỨC
 @@||vov.vn^
 @@||cand.vn^
+@@||baotintuc.vn^
 @@||baobacninhtv.vn^
 @@||dantri.com.vn^
 @@||vietnamnet.vn^
 @@||vietnamnetjsc.vn^
+
 @@||vncdn.net^
 @@||vnncdn.net^
 @@||bmcdn.me^
+@@||amcdn.vn^
 @@||epicdn.me^
 @@||newscdn.vn^
 
