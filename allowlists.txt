@@ -27,6 +27,7 @@
 @@||baobacninhtv.vn^
 @@||dantri.com.vn^
 @@||vietnamnet.vn^
+@@||hanoimoi.vn^
 @@||vietnamnetjsc.vn^
 
 @@||vncdn.net^
