@@ -5,8 +5,8 @@
 ! 0. QUY TẮC VIẾT LẠI DNS
 ||daotuan.xyz^$dnsrewrite=10.30.0.254
 ||daotuan.xyz^$dnsrewrite=10.30.0.253
-@@|daotuan.xyz^$dnsrewrite
-@@|dao.daotuan.xyz^$dnsrewrite
+!@@|daotuan.xyz^$dnsrewrite
+!@@|dao.daotuan.xyz^$dnsrewrite
 @@|amlich.daotuan.xyz^$dnsrewrite
 @@|mqtt5.daotuan.xyz^$dnsrewrite
 
